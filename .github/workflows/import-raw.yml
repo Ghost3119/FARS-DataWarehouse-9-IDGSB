@@ -1,0 +1,42 @@
+name: Importar archivos originales FARS
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/import-raw.yml
+permissions:
+  contents: write
+concurrency:
+  group: fars-raw-import
+  cancel-in-progress: false
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    outputs:
+      groups: ${{ steps.groups.outputs.groups }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: groups
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from pathlib import Path
+          items = json.loads(Path('sources/manifest.json').read_text())['files']
+          print('groups=' + json.dumps(sorted({x['group'] for x in items})))
+          PY
+  copy-originals:
+    needs: inventory
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        group: ${{ fromJSON(needs.inventory.outputs.groups) }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Copiar y verificar archivos sin transformar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FARS_GROUP: ${{ matrix.group }}
+        run: python scripts/publish_raw.py --group "$FARS_GROUP"

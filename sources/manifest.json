@@ -1,0 +1,3038 @@
+{
+  "source": "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/",
+  "files": [
+    {
+      "path": "1975/National/FARS1975NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1975/National/FARS1975NationalCSV.zip",
+      "listed_size": "4 MB",
+      "listed_updated": "02/03/2026 08:50:37 PM ET",
+      "group": "1975"
+    },
+    {
+      "path": "1975/National/FARS1975NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1975/National/FARS1975NationalSAS.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:37 PM ET",
+      "group": "1975"
+    },
+    {
+      "path": "1975/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1975/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:38 PM ET",
+      "group": "1975"
+    },
+    {
+      "path": "1976/National/FARS1976NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1976/National/FARS1976NationalCSV.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:38 PM ET",
+      "group": "1976"
+    },
+    {
+      "path": "1976/National/FARS1976NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1976/National/FARS1976NationalSAS.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:38 PM ET",
+      "group": "1976"
+    },
+    {
+      "path": "1976/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1976/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:38 PM ET",
+      "group": "1976"
+    },
+    {
+      "path": "1977/National/FARS1977NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1977/National/FARS1977NationalCSV.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:39 PM ET",
+      "group": "1977"
+    },
+    {
+      "path": "1977/National/FARS1977NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1977/National/FARS1977NationalSAS.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:39 PM ET",
+      "group": "1977"
+    },
+    {
+      "path": "1977/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1977/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:39 PM ET",
+      "group": "1977"
+    },
+    {
+      "path": "1978/National/FARS1978NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1978/National/FARS1978NationalCSV.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:39 PM ET",
+      "group": "1978"
+    },
+    {
+      "path": "1978/National/FARS1978NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1978/National/FARS1978NationalSAS.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:39 PM ET",
+      "group": "1978"
+    },
+    {
+      "path": "1978/Puerto Rico/FARS1978PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1978/Puerto%20Rico/FARS1978PuertoRicoCSV.zip",
+      "listed_size": "44 KB",
+      "listed_updated": "02/03/2026 08:50:39 PM ET",
+      "group": "1978"
+    },
+    {
+      "path": "1978/Puerto Rico/FARS1978PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1978/Puerto%20Rico/FARS1978PuertoRicoSAS.zip",
+      "listed_size": "149 KB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1978"
+    },
+    {
+      "path": "1978/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1978/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1978"
+    },
+    {
+      "path": "1979/National/FARS1979NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1979/National/FARS1979NationalCSV.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1979"
+    },
+    {
+      "path": "1979/National/FARS1979NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1979/National/FARS1979NationalSAS.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1979"
+    },
+    {
+      "path": "1979/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1979/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1979"
+    },
+    {
+      "path": "1980/National/FARS1980NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1980/National/FARS1980NationalCSV.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1980"
+    },
+    {
+      "path": "1980/National/FARS1980NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1980/National/FARS1980NationalSAS.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:40 PM ET",
+      "group": "1980"
+    },
+    {
+      "path": "1980/Puerto Rico/FARS1980PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1980/Puerto%20Rico/FARS1980PuertoRicoCSV.zip",
+      "listed_size": "44 KB",
+      "listed_updated": "02/03/2026 08:50:41 PM ET",
+      "group": "1980"
+    },
+    {
+      "path": "1980/Puerto Rico/FARS1980PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1980/Puerto%20Rico/FARS1980PuertoRicoSAS.zip",
+      "listed_size": "149 KB",
+      "listed_updated": "02/03/2026 08:50:41 PM ET",
+      "group": "1980"
+    },
+    {
+      "path": "1980/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1980/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:41 PM ET",
+      "group": "1980"
+    },
+    {
+      "path": "1981/National/FARS1981NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1981/National/FARS1981NationalCSV.zip",
+      "listed_size": "5 MB",
+      "listed_updated": "02/03/2026 08:50:41 PM ET",
+      "group": "1981"
+    },
+    {
+      "path": "1981/National/FARS1981NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1981/National/FARS1981NationalSAS.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:41 PM ET",
+      "group": "1981"
+    },
+    {
+      "path": "1981/Puerto Rico/FARS1981PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1981/Puerto%20Rico/FARS1981PuertoRicoCSV.zip",
+      "listed_size": "40 KB",
+      "listed_updated": "02/03/2026 08:50:42 PM ET",
+      "group": "1981"
+    },
+    {
+      "path": "1981/Puerto Rico/FARS1981PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1981/Puerto%20Rico/FARS1981PuertoRicoSAS.zip",
+      "listed_size": "145 KB",
+      "listed_updated": "02/03/2026 08:50:42 PM ET",
+      "group": "1981"
+    },
+    {
+      "path": "1981/Release Notes 1975-1981.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1981/Release%20Notes%201975-1981.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:50:42 PM ET",
+      "group": "1981"
+    },
+    {
+      "path": "1982/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:42 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/National/FARS1982NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/National/FARS1982NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:42 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/National/FARS1982NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/National/FARS1982NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:42 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/National/FARS1982NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/National/FARS1982NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:43 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/National/FARS1982NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/National/FARS1982NationalSAS.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:43 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/Puerto Rico/FARS1982PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/Puerto%20Rico/FARS1982PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "14 KB",
+      "listed_updated": "02/03/2026 08:50:43 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/Puerto Rico/FARS1982PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/Puerto%20Rico/FARS1982PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:50:43 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/Puerto Rico/FARS1982PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/Puerto%20Rico/FARS1982PuertoRicoCSV.zip",
+      "listed_size": "60 KB",
+      "listed_updated": "02/03/2026 08:50:43 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1982/Puerto Rico/FARS1982PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/Puerto%20Rico/FARS1982PuertoRicoSAS.zip",
+      "listed_size": "171 KB",
+      "listed_updated": "02/03/2026 08:50:44 PM ET",
+      "group": "1982"
+    },
+    {
+      "path": "1983/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:44 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/National/FARS1983NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/National/FARS1983NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:44 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/National/FARS1983NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/National/FARS1983NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:44 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/National/FARS1983NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/National/FARS1983NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:44 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/National/FARS1983NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/National/FARS1983NationalSAS.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:44 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/Puerto Rico/FARS1983PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/Puerto%20Rico/FARS1983PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "15 KB",
+      "listed_updated": "02/03/2026 08:50:45 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/Puerto Rico/FARS1983PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/Puerto%20Rico/FARS1983PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "27 KB",
+      "listed_updated": "02/03/2026 08:50:45 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/Puerto Rico/FARS1983PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/Puerto%20Rico/FARS1983PuertoRicoCSV.zip",
+      "listed_size": "65 KB",
+      "listed_updated": "02/03/2026 08:50:45 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1983/Puerto Rico/FARS1983PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/Puerto%20Rico/FARS1983PuertoRicoSAS.zip",
+      "listed_size": "178 KB",
+      "listed_updated": "02/03/2026 08:50:45 PM ET",
+      "group": "1983"
+    },
+    {
+      "path": "1984/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:45 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/National/FARS1984NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/National/FARS1984NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:45 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/National/FARS1984NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/National/FARS1984NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:46 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/National/FARS1984NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/National/FARS1984NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:46 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/National/FARS1984NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/National/FARS1984NationalSAS.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:46 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/Puerto Rico/FARS1984PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/Puerto%20Rico/FARS1984PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "16 KB",
+      "listed_updated": "02/03/2026 08:50:46 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/Puerto Rico/FARS1984PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/Puerto%20Rico/FARS1984PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "28 KB",
+      "listed_updated": "02/03/2026 08:50:46 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/Puerto Rico/FARS1984PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/Puerto%20Rico/FARS1984PuertoRicoCSV.zip",
+      "listed_size": "72 KB",
+      "listed_updated": "02/03/2026 08:50:46 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1984/Puerto Rico/FARS1984PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/Puerto%20Rico/FARS1984PuertoRicoSAS.zip",
+      "listed_size": "185 KB",
+      "listed_updated": "02/03/2026 08:50:47 PM ET",
+      "group": "1984"
+    },
+    {
+      "path": "1985/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:47 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/National/FARS1985NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/National/FARS1985NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:47 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/National/FARS1985NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/National/FARS1985NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:47 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/National/FARS1985NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/National/FARS1985NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:47 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/National/FARS1985NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/National/FARS1985NationalSAS.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:47 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/Puerto Rico/FARS1985PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/Puerto%20Rico/FARS1985PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "16 KB",
+      "listed_updated": "02/03/2026 08:50:48 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/Puerto Rico/FARS1985PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/Puerto%20Rico/FARS1985PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:50:48 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/Puerto Rico/FARS1985PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/Puerto%20Rico/FARS1985PuertoRicoCSV.zip",
+      "listed_size": "73 KB",
+      "listed_updated": "02/03/2026 08:50:48 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1985/Puerto Rico/FARS1985PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/Puerto%20Rico/FARS1985PuertoRicoSAS.zip",
+      "listed_size": "188 KB",
+      "listed_updated": "02/03/2026 08:50:48 PM ET",
+      "group": "1985"
+    },
+    {
+      "path": "1986/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:48 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/National/FARS1986NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/National/FARS1986NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:48 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/National/FARS1986NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/National/FARS1986NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/National/FARS1986NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/National/FARS1986NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/National/FARS1986NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/National/FARS1986NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/Puerto Rico/FARS1986PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/Puerto%20Rico/FARS1986PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/Puerto Rico/FARS1986PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/Puerto%20Rico/FARS1986PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "30 KB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/Puerto Rico/FARS1986PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/Puerto%20Rico/FARS1986PuertoRicoCSV.zip",
+      "listed_size": "78 KB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1986/Puerto Rico/FARS1986PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/Puerto%20Rico/FARS1986PuertoRicoSAS.zip",
+      "listed_size": "193 KB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1986"
+    },
+    {
+      "path": "1987/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/National/FARS1987NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/National/FARS1987NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:49 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/National/FARS1987NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/National/FARS1987NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/National/FARS1987NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/National/FARS1987NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/National/FARS1987NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/National/FARS1987NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/Puerto Rico/FARS1987PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/Puerto%20Rico/FARS1987PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/Puerto Rico/FARS1987PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/Puerto%20Rico/FARS1987PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "30 KB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/Puerto Rico/FARS1987PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/Puerto%20Rico/FARS1987PuertoRicoCSV.zip",
+      "listed_size": "84 KB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1987/Puerto Rico/FARS1987PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/Puerto%20Rico/FARS1987PuertoRicoSAS.zip",
+      "listed_size": "198 KB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1987"
+    },
+    {
+      "path": "1988/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:50 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/National/FARS1988NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/National/FARS1988NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/National/FARS1988NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/National/FARS1988NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/National/FARS1988NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/National/FARS1988NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/National/FARS1988NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/National/FARS1988NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/Puerto Rico/FARS1988PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/Puerto%20Rico/FARS1988PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/Puerto Rico/FARS1988PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/Puerto%20Rico/FARS1988PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "30 KB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/Puerto Rico/FARS1988PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/Puerto%20Rico/FARS1988PuertoRicoCSV.zip",
+      "listed_size": "86 KB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1988/Puerto Rico/FARS1988PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/Puerto%20Rico/FARS1988PuertoRicoSAS.zip",
+      "listed_size": "200 KB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1988"
+    },
+    {
+      "path": "1989/FARS1989 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/FARS1989%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:51 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/National/FARS1989NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/National/FARS1989NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/National/FARS1989NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/National/FARS1989NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/National/FARS1989NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/National/FARS1989NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/National/FARS1989NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/National/FARS1989NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/Puerto Rico/FARS1989PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/Puerto%20Rico/FARS1989PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "16 KB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/Puerto Rico/FARS1989PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/Puerto%20Rico/FARS1989PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/Puerto Rico/FARS1989PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/Puerto%20Rico/FARS1989PuertoRicoCSV.zip",
+      "listed_size": "31 KB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1989/Puerto Rico/FARS1989PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/Puerto%20Rico/FARS1989PuertoRicoSAS.zip",
+      "listed_size": "242 KB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1989"
+    },
+    {
+      "path": "1990/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/National/FARS1990NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/National/FARS1990NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/National/FARS1990NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/National/FARS1990NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:52 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/National/FARS1990NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/National/FARS1990NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/National/FARS1990NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/National/FARS1990NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/Puerto Rico/FARS1990PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/Puerto%20Rico/FARS1990PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "14 KB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/Puerto Rico/FARS1990PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/Puerto%20Rico/FARS1990PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "26 KB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/Puerto Rico/FARS1990PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/Puerto%20Rico/FARS1990PuertoRicoCSV.zip",
+      "listed_size": "71 KB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1990/Puerto Rico/FARS1990PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/Puerto%20Rico/FARS1990PuertoRicoSAS.zip",
+      "listed_size": "183 KB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1990"
+    },
+    {
+      "path": "1991/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/National/FARS1991NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/National/FARS1991NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/National/FARS1991NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/National/FARS1991NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:53 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/National/FARS1991NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/National/FARS1991NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/National/FARS1991NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/National/FARS1991NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/Puerto Rico/FARS1991PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/Puerto%20Rico/FARS1991PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "15 KB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/Puerto Rico/FARS1991PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/Puerto%20Rico/FARS1991PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "26 KB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/Puerto Rico/FARS1991PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/Puerto%20Rico/FARS1991PuertoRicoCSV.zip",
+      "listed_size": "75 KB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1991/Puerto Rico/FARS1991PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/Puerto%20Rico/FARS1991PuertoRicoSAS.zip",
+      "listed_size": "190 KB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1991"
+    },
+    {
+      "path": "1992/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/National/FARS1992NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/National/FARS1992NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/National/FARS1992NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/National/FARS1992NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/National/FARS1992NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/National/FARS1992NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:54 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/National/FARS1992NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/National/FARS1992NationalSAS.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/Puerto Rico/FARS1992PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/Puerto%20Rico/FARS1992PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "16 KB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/Puerto Rico/FARS1992PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/Puerto%20Rico/FARS1992PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/Puerto Rico/FARS1992PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/Puerto%20Rico/FARS1992PuertoRicoCSV.zip",
+      "listed_size": "84 KB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1992/Puerto Rico/FARS1992PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/Puerto%20Rico/FARS1992PuertoRicoSAS.zip",
+      "listed_size": "201 KB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1992"
+    },
+    {
+      "path": "1993/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/National/FARS1993NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/National/FARS1993NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/National/FARS1993NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/National/FARS1993NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/National/FARS1993NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/National/FARS1993NationalCSV.zip",
+      "listed_size": "6 MB",
+      "listed_updated": "02/03/2026 08:50:55 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/National/FARS1993NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/National/FARS1993NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/Puerto Rico/FARS1993PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/Puerto%20Rico/FARS1993PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "18 KB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/Puerto Rico/FARS1993PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/Puerto%20Rico/FARS1993PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "31 KB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/Puerto Rico/FARS1993PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/Puerto%20Rico/FARS1993PuertoRicoCSV.zip",
+      "listed_size": "89 KB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1993/Puerto Rico/FARS1993PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/Puerto%20Rico/FARS1993PuertoRicoSAS.zip",
+      "listed_size": "207 KB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1993"
+    },
+    {
+      "path": "1994/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/National/FARS1994NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/National/FARS1994NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/National/FARS1994NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/National/FARS1994NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/National/FARS1994NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/National/FARS1994NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:56 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/National/FARS1994NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/National/FARS1994NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/Puerto Rico/FARS1994PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/Puerto%20Rico/FARS1994PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "18 KB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/Puerto Rico/FARS1994PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/Puerto%20Rico/FARS1994PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "31 KB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/Puerto Rico/FARS1994PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/Puerto%20Rico/FARS1994PuertoRicoCSV.zip",
+      "listed_size": "95 KB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1994/Puerto Rico/FARS1994PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/Puerto%20Rico/FARS1994PuertoRicoSAS.zip",
+      "listed_size": "208 KB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1994"
+    },
+    {
+      "path": "1995/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/National/FARS1995NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/National/FARS1995NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/National/FARS1995NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/National/FARS1995NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/National/FARS1995NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/National/FARS1995NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:57 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/National/FARS1995NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/National/FARS1995NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/Puerto Rico/FARS1995PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/Puerto%20Rico/FARS1995PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/Puerto Rico/FARS1995PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/Puerto%20Rico/FARS1995PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "30 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/Puerto Rico/FARS1995PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/Puerto%20Rico/FARS1995PuertoRicoCSV.zip",
+      "listed_size": "92 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1995/Puerto Rico/FARS1995PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/Puerto%20Rico/FARS1995PuertoRicoSAS.zip",
+      "listed_size": "205 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1995"
+    },
+    {
+      "path": "1996/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/National/FARS1996NationalAuxiliaryCVS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/National/FARS1996NationalAuxiliaryCVS.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/National/FARS1996NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/National/FARS1996NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/National/FARS1996NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/National/FARS1996NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/National/FARS1996NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/National/FARS1996NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/Puerto Rico/FARS1996PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/Puerto%20Rico/FARS1996PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/Puerto Rico/FARS1996PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/Puerto%20Rico/FARS1996PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "31 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/Puerto Rico/FARS1996PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/Puerto%20Rico/FARS1996PuertoRicoCSV.zip",
+      "listed_size": "94 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1996/Puerto Rico/FARS1996PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/Puerto%20Rico/FARS1996PuertoRicoSAS.zip",
+      "listed_size": "207 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1996"
+    },
+    {
+      "path": "1997/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/National/FARS1997NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/National/FARS1997NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/National/FARS1997NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/National/FARS1997NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:58 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/National/FARS1997NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/National/FARS1997NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/National/FARS1997NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/National/FARS1997NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/Puerto Rico/FARS1997PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/Puerto%20Rico/FARS1997PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/Puerto Rico/FARS1997PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/Puerto%20Rico/FARS1997PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "30 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/Puerto Rico/FARS1997PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/Puerto%20Rico/FARS1997PuertoRicoCSV.zip",
+      "listed_size": "92 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1997/Puerto Rico/FARS1997PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/Puerto%20Rico/FARS1997PuertoRicoSAS.zip",
+      "listed_size": "205 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1997"
+    },
+    {
+      "path": "1998/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/National/FARS1998NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/National/FARS1998NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/National/FARS1998NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/National/FARS1998NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/National/FARS1998NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/National/FARS1998NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/National/FARS1998NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/National/FARS1998NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/Puerto Rico/FARS1998PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/Puerto%20Rico/FARS1998PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "16 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/Puerto Rico/FARS1998PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/Puerto%20Rico/FARS1998PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/Puerto Rico/FARS1998PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/Puerto%20Rico/FARS1998PuertoRicoCSV.zip",
+      "listed_size": "91 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1998/Puerto Rico/FARS1998PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/Puerto%20Rico/FARS1998PuertoRicoSAS.zip",
+      "listed_size": "204 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1998"
+    },
+    {
+      "path": "1999/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/National/FARS1999NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/National/FARS1999NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/National/FARS1999NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/National/FARS1999NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/National/FARS1999NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/National/FARS1999NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/National/FARS1999NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/National/FARS1999NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/Puerto Rico/FARS1999PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/Puerto%20Rico/FARS1999PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/Puerto Rico/FARS1999PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/Puerto%20Rico/FARS1999PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/Puerto Rico/FARS1999PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/Puerto%20Rico/FARS1999PuertoRicoCSV.zip",
+      "listed_size": "87 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "1999/Puerto Rico/FARS1999PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/Puerto%20Rico/FARS1999PuertoRicoSAS.zip",
+      "listed_size": "200 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "1999"
+    },
+    {
+      "path": "2000/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/FARS 1982-1988 1990-2000 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/FARS%201982-1988%201990-2000%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/National/FARS2000NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/National/FARS2000NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:50:59 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/National/FARS2000NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/National/FARS2000NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/National/FARS2000NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/National/FARS2000NationalCSV.zip",
+      "listed_size": "7 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/National/FARS2000NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/National/FARS2000NationalSAS.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/Puerto Rico/FARS2000PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/Puerto%20Rico/FARS2000PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "17 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/Puerto Rico/FARS2000PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/Puerto%20Rico/FARS2000PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/Puerto Rico/FARS2000PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/Puerto%20Rico/FARS2000PuertoRicoCSV.zip",
+      "listed_size": "88 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2000/Puerto Rico/FARS2000PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/Puerto%20Rico/FARS2000PuertoRicoSAS.zip",
+      "listed_size": "202 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2000"
+    },
+    {
+      "path": "2001/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/FARS2001-2009 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/FARS2001-2009%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/National/FARS2001NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/National/FARS2001NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/National/FARS2001NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/National/FARS2001NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/National/FARS2001NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/National/FARS2001NationalCSV.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/National/FARS2001NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/National/FARS2001NationalSAS.zip",
+      "listed_size": "9 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/Puerto Rico/FARS2001PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/Puerto%20Rico/FARS2001PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "15 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/Puerto Rico/FARS2001PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/Puerto%20Rico/FARS2001PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/Puerto Rico/FARS2001PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/Puerto%20Rico/FARS2001PuertoRicoCSV.zip",
+      "listed_size": "80 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2001/Puerto Rico/FARS2001PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/Puerto%20Rico/FARS2001PuertoRicoSAS.zip",
+      "listed_size": "193 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2001"
+    },
+    {
+      "path": "2002/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/FARS2001-2009 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/FARS2001-2009%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/National/FARS2002NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/National/FARS2002NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/National/FARS2002NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/National/FARS2002NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/National/FARS2002NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/National/FARS2002NationalCSV.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/National/FARS2002NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/National/FARS2002NationalSAS.zip",
+      "listed_size": "9 MB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/Puerto Rico/FARS2002PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/Puerto%20Rico/FARS2002PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "15 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/Puerto Rico/FARS2002PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/Puerto%20Rico/FARS2002PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/Puerto Rico/FARS2002PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/Puerto%20Rico/FARS2002PuertoRicoCSV.zip",
+      "listed_size": "80 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2002/Puerto Rico/FARS2002PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/Puerto%20Rico/FARS2002PuertoRicoSAS.zip",
+      "listed_size": "193 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2002"
+    },
+    {
+      "path": "2003/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/FARS2001-2009 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/FARS2001-2009%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:00 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/National/FARS2003NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/National/FARS2003NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/National/FARS2003NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/National/FARS2003NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/National/FARS2003NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/National/FARS2003NationalCSV.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/National/FARS2003NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/National/FARS2003NationalSAS.zip",
+      "listed_size": "9 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/Puerto Rico/FARS2003PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/Puerto%20Rico/FARS2003PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "15 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/Puerto Rico/FARS2003PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/Puerto%20Rico/FARS2003PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/Puerto Rico/FARS2003PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/Puerto%20Rico/FARS2003PuertoRicoCSV.zip",
+      "listed_size": "80 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2003/Puerto Rico/FARS2003PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/Puerto%20Rico/FARS2003PuertoRicoSAS.zip",
+      "listed_size": "191 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2003"
+    },
+    {
+      "path": "2004/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/FARS2001-2009 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/FARS2001-2009%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/National/FARS2004NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/National/FARS2004NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/National/FARS2004NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/National/FARS2004NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/National/FARS2004NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/National/FARS2004NationalCSV.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/National/FARS2004NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/National/FARS2004NationalSAS.zip",
+      "listed_size": "9 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/Puerto Rico/FARS2004PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/Puerto%20Rico/FARS2004PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "14 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/Puerto Rico/FARS2004PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/Puerto%20Rico/FARS2004PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/Puerto Rico/FARS2004PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/Puerto%20Rico/FARS2004PuertoRicoCSV.zip",
+      "listed_size": "79 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2004/Puerto Rico/FARS2004PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/Puerto%20Rico/FARS2004PuertoRicoSAS.zip",
+      "listed_size": "192 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2004"
+    },
+    {
+      "path": "2005/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/FARS2001-2009 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/FARS2001-2009%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/National/FARS2005NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/National/FARS2005NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/National/FARS2005NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/National/FARS2005NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/National/FARS2005NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/National/FARS2005NationalCSV.zip",
+      "listed_size": "8 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/National/FARS2005NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/National/FARS2005NationalSAS.zip",
+      "listed_size": "10 MB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/Puerto Rico/FARS2005PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/Puerto%20Rico/FARS2005PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "15 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/Puerto Rico/FARS2005PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/Puerto%20Rico/FARS2005PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/Puerto Rico/FARS2005PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/Puerto%20Rico/FARS2005PuertoRicoCSV.zip",
+      "listed_size": "78 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2005/Puerto Rico/FARS2005PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/Puerto%20Rico/FARS2005PuertoRicoSAS.zip",
+      "listed_size": "196 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2005"
+    },
+    {
+      "path": "2006/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:01 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/FARS2006 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/FARS2006%20Release%20Notes.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/National/FARS2006NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/National/FARS2006NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/National/FARS2006NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/National/FARS2006NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/National/FARS2006NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/National/FARS2006NationalCSV.zip",
+      "listed_size": "14 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/National/FARS2006NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/National/FARS2006NationalSAS.zip",
+      "listed_size": "27 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/Puerto Rico/FARS2006PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/Puerto%20Rico/FARS2006PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "16 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/Puerto Rico/FARS2006PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/Puerto%20Rico/FARS2006PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/Puerto Rico/FARS2006PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/Puerto%20Rico/FARS2006PuertoRicoCSV.zip",
+      "listed_size": "139 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2006/Puerto Rico/FARS2006PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/Puerto%20Rico/FARS2006PuertoRicoSAS.zip",
+      "listed_size": "542 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2006"
+    },
+    {
+      "path": "2007/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/FARS2007 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/FARS2007%20Release%20Notes.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/National/FARS2007NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/National/FARS2007NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/National/FARS2007NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/National/FARS2007NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/National/FARS2007NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/National/FARS2007NationalCSV.zip",
+      "listed_size": "14 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/National/FARS2007NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/National/FARS2007NationalSAS.zip",
+      "listed_size": "27 MB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/Puerto Rico/FARS2007PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/Puerto%20Rico/FARS2007PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "14 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/Puerto Rico/FARS2007PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/Puerto%20Rico/FARS2007PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "35 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/Puerto Rico/FARS2007PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/Puerto%20Rico/FARS2007PuertoRicoCSV.zip",
+      "listed_size": "133 KB",
+      "listed_updated": "02/03/2026 08:51:02 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2007/Puerto Rico/FARS2007PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/Puerto%20Rico/FARS2007PuertoRicoSAS.zip",
+      "listed_size": "541 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2007"
+    },
+    {
+      "path": "2008/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/FARS2008 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/FARS2008%20Release%20Notes.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/National/FARS2008NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/National/FARS2008NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/National/FARS2008NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/National/FARS2008NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/National/FARS2008NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/National/FARS2008NationalCSV.zip",
+      "listed_size": "13 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/National/FARS2008NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/National/FARS2008NationalSAS.zip",
+      "listed_size": "25 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/Puerto Rico/FARS2008PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/Puerto%20Rico/FARS2008PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/Puerto Rico/FARS2008PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/Puerto%20Rico/FARS2008PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "30 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/Puerto Rico/FARS2008PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/Puerto%20Rico/FARS2008PuertoRicoCSV.zip",
+      "listed_size": "117 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2008/Puerto Rico/FARS2008PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/Puerto%20Rico/FARS2008PuertoRicoSAS.zip",
+      "listed_size": "511 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2008"
+    },
+    {
+      "path": "2009/DRUNK_DR CORRECTION/Drunk_dr correction.docx",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/DRUNK_DR%20CORRECTION/Drunk_dr%20correction.docx",
+      "listed_size": "13 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/FARS2009 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/FARS2009%20Release%20Notes.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/National/FARS2009NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/National/FARS2009NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/National/FARS2009NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/National/FARS2009NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/National/FARS2009NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/National/FARS2009NationalCSV.zip",
+      "listed_size": "12 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/National/FARS2009NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/National/FARS2009NationalSAS.zip",
+      "listed_size": "22 MB",
+      "listed_updated": "02/03/2026 08:51:03 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/Puerto Rico/FARS2009PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/Puerto%20Rico/FARS2009PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "12 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/Puerto Rico/FARS2009PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/Puerto%20Rico/FARS2009PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "31 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/Puerto Rico/FARS2009PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/Puerto%20Rico/FARS2009PuertoRicoCSV.zip",
+      "listed_size": "108 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2009/Puerto Rico/FARS2009PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/Puerto%20Rico/FARS2009PuertoRicoSAS.zip",
+      "listed_size": "488 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2009"
+    },
+    {
+      "path": "2010/FARS2010 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/FARS2010%20Release%20Notes.txt",
+      "listed_size": "5 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/National/FARS2010NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/National/FARS2010NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/National/FARS2010NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip",
+      "listed_size": "14 MB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/National/FARS2010NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalSAS.zip",
+      "listed_size": "27 MB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/Puerto Rico/FARS2010PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/Puerto%20Rico/FARS2010PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "11 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/Puerto Rico/FARS2010PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/Puerto%20Rico/FARS2010PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/Puerto Rico/FARS2010PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/Puerto%20Rico/FARS2010PuertoRicoCSV.zip",
+      "listed_size": "100 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2010/Puerto Rico/FARS2010PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/Puerto%20Rico/FARS2010PuertoRicoSAS.zip",
+      "listed_size": "447 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2010"
+    },
+    {
+      "path": "2011/FARS2011 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/FARS2011%20Release%20Notes.txt",
+      "listed_size": "4 KB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/National/FARS2011NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:04 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/National/FARS2011NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/National/FARS2011NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip",
+      "listed_size": "14 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/National/FARS2011NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalSAS.zip",
+      "listed_size": "27 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/Puerto Rico/FARS2011PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/Puerto%20Rico/FARS2011PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "12 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/Puerto Rico/FARS2011PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/Puerto%20Rico/FARS2011PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "29 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/Puerto Rico/FARS2011PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/Puerto%20Rico/FARS2011PuertoRicoCSV.zip",
+      "listed_size": "141 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2011/Puerto Rico/FARS2011PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/Puerto%20Rico/FARS2011PuertoRicoSAS.zip",
+      "listed_size": "693 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2011"
+    },
+    {
+      "path": "2012/FARS2012 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/FARS2012%20Release%20Notes.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/National/FARS2012NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/National/FARS2012NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/National/FARS2012NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip",
+      "listed_size": "15 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/National/FARS2012NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalSAS.zip",
+      "listed_size": "29 MB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/Puerto Rico/FARS2012PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/Puerto%20Rico/FARS2012PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "11 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/Puerto Rico/FARS2012PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/Puerto%20Rico/FARS2012PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "28 KB",
+      "listed_updated": "02/03/2026 08:51:05 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/Puerto Rico/FARS2012PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/Puerto%20Rico/FARS2012PuertoRicoCSV.zip",
+      "listed_size": "131 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2012/Puerto Rico/FARS2012PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/Puerto%20Rico/FARS2012PuertoRicoSAS.zip",
+      "listed_size": "497 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2012"
+    },
+    {
+      "path": "2013/FARS2013 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/FARS2013%20Release%20Notes.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/National/FARS2013NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/National/FARS2013NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/National/FARS2013NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip",
+      "listed_size": "16 MB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/National/FARS2013NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalSAS.zip",
+      "listed_size": "38 MB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/Puerto Rico/FARS2013PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/Puerto%20Rico/FARS2013PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "11 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/Puerto Rico/FARS2013PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/Puerto%20Rico/FARS2013PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/Puerto Rico/FARS2013PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/Puerto%20Rico/FARS2013PuertoRicoCSV.zip",
+      "listed_size": "135 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2013/Puerto Rico/FARS2013PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/Puerto%20Rico/FARS2013PuertoRicoSAS.zip",
+      "listed_size": "784 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2013"
+    },
+    {
+      "path": "2014/FARS2014 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/FARS2014%20Release%20Notes.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/National/FARS2014NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/National/FARS2014NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:06 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/National/FARS2014NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip",
+      "listed_size": "16 MB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/National/FARS2014NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalSAS.zip",
+      "listed_size": "39 MB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/Puerto Rico/FARS2014PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/Puerto%20Rico/FARS2014PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "10 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/Puerto Rico/FARS2014PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/Puerto%20Rico/FARS2014PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/Puerto Rico/FARS2014PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/Puerto%20Rico/FARS2014PuertoRicoCSV.zip",
+      "listed_size": "123 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2014/Puerto Rico/FARS2014PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/Puerto%20Rico/FARS2014PuertoRicoSAS.zip",
+      "listed_size": "863 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2014"
+    },
+    {
+      "path": "2015/FARS2015 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/FARS2015%20Release%20Notes.txt",
+      "listed_size": "5 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/National/FARS2015NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/National/FARS2015NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/National/FARS2015NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip",
+      "listed_size": "29 MB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/National/FARS2015NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalSAS.zip",
+      "listed_size": "43 MB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/Puerto Rico/FARS2015PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/Puerto%20Rico/FARS2015PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "10 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/Puerto Rico/FARS2015PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/Puerto%20Rico/FARS2015PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:07 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/Puerto Rico/FARS2015PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/Puerto%20Rico/FARS2015PuertoRicoCSV.zip",
+      "listed_size": "203 KB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2015/Puerto Rico/FARS2015PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/Puerto%20Rico/FARS2015PuertoRicoSAS.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2015"
+    },
+    {
+      "path": "2016/FARS2016 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/FARS2016%20Release%20Note.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/National/FARS2016NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/National/FARS2016NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/National/FARS2016NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip",
+      "listed_size": "26 MB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/National/FARS2016NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalSAS.zip",
+      "listed_size": "30 MB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/Puerto Rico/FARS2016PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/Puerto%20Rico/FARS2016PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "9 KB",
+      "listed_updated": "02/03/2026 08:51:08 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/Puerto Rico/FARS2016PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/Puerto%20Rico/FARS2016PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:09 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/Puerto Rico/FARS2016PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/Puerto%20Rico/FARS2016PuertoRicoCSV.zip",
+      "listed_size": "149 KB",
+      "listed_updated": "02/03/2026 08:51:09 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2016/Puerto Rico/FARS2016PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/Puerto%20Rico/FARS2016PuertoRicoSAS.zip",
+      "listed_size": "946 KB",
+      "listed_updated": "02/03/2026 08:51:09 PM ET",
+      "group": "2016"
+    },
+    {
+      "path": "2017/FARS2017 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/FARS2017%20Release%20Note.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:09 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/National/FARS2017NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:09 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/National/FARS2017NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:09 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/National/FARS2017NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip",
+      "listed_size": "26 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/National/FARS2017NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalSAS.zip",
+      "listed_size": "30 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/Puerto Rico/FARS2017PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/Puerto%20Rico/FARS2017PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "9 KB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/Puerto Rico/FARS2017PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/Puerto%20Rico/FARS2017PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/Puerto Rico/FARS2017PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/Puerto%20Rico/FARS2017PuertoRicoCSV.zip",
+      "listed_size": "164 KB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2017/Puerto Rico/FARS2017PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/Puerto%20Rico/FARS2017PuertoRicoSAS.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2017"
+    },
+    {
+      "path": "2018/FARS2018 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/FARS2018%20Release%20Note.txt",
+      "listed_size": "3 KB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/National/FARS2018NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/National/FARS2018NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/National/FARS2018NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip",
+      "listed_size": "26 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/National/FARS2018NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalSAS.zip",
+      "listed_size": "30 MB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/Puerto Rico/FARS2018PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/Puerto%20Rico/FARS2018PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "10 KB",
+      "listed_updated": "02/03/2026 08:51:10 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/Puerto Rico/FARS2018PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/Puerto%20Rico/FARS2018PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/Puerto Rico/FARS2018PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/Puerto%20Rico/FARS2018PuertoRicoCSV.zip",
+      "listed_size": "174 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2018/Puerto Rico/FARS2018PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/Puerto%20Rico/FARS2018PuertoRicoSAS.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2018"
+    },
+    {
+      "path": "2019/FARS2019 Release Note.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/FARS2019%20Release%20Note.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/National/FARS2019NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/National/FARS2019NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/National/FARS2019NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip",
+      "listed_size": "26 MB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/National/FARS2019NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalSAS.zip",
+      "listed_size": "30 MB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/Puerto Rico/FARS2019PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/Puerto%20Rico/FARS2019PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "9 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/Puerto Rico/FARS2019PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/Puerto%20Rico/FARS2019PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "24 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/Puerto Rico/FARS2019PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/Puerto%20Rico/FARS2019PuertoRicoCSV.zip",
+      "listed_size": "171 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2019/Puerto Rico/FARS2019PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/Puerto%20Rico/FARS2019PuertoRicoSAS.zip",
+      "listed_size": "644 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2019"
+    },
+    {
+      "path": "2020/FARS2020 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/FARS2020%20Release%20Notes.txt",
+      "listed_size": "2 KB",
+      "listed_updated": "02/03/2026 08:51:11 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/National/FARS2020NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/National/FARS2020NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/National/FARS2020NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip",
+      "listed_size": "30 MB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/National/FARS2020NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalSAS.zip",
+      "listed_size": "32 MB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/Puerto Rico/FARS2020PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/Puerto%20Rico/FARS2020PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "8 KB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/Puerto Rico/FARS2020PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/Puerto%20Rico/FARS2020PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "22 KB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/Puerto Rico/FARS2020PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/Puerto%20Rico/FARS2020PuertoRicoCSV.zip",
+      "listed_size": "170 KB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2020/Puerto Rico/FARS2020PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/Puerto%20Rico/FARS2020PuertoRicoSAS.zip",
+      "listed_size": "768 KB",
+      "listed_updated": "02/03/2026 08:51:12 PM ET",
+      "group": "2020"
+    },
+    {
+      "path": "2021/FARS2021 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/FARS2021%20Release%20Notes.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "06/24/2026 05:45:33 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/National/FARS2021NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalAuxiliaryCSV.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "06/24/2026 05:45:34 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/National/FARS2021NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "06/24/2026 05:45:34 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/National/FARS2021NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip",
+      "listed_size": "34 MB",
+      "listed_updated": "06/24/2026 05:45:34 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/National/FARS2021NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalSAS.zip",
+      "listed_size": "43 MB",
+      "listed_updated": "06/24/2026 05:45:34 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/Puerto Rico/FARS2021PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/Puerto%20Rico/FARS2021PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "11 KB",
+      "listed_updated": "06/24/2026 05:45:33 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/Puerto Rico/FARS2021PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/Puerto%20Rico/FARS2021PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "27 KB",
+      "listed_updated": "06/24/2026 05:45:34 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/Puerto Rico/FARS2021PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/Puerto%20Rico/FARS2021PuertoRicoCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "06/24/2026 05:45:33 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2021/Puerto Rico/FARS2021PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/Puerto%20Rico/FARS2021PuertoRicoSAS.zip",
+      "listed_size": "905 KB",
+      "listed_updated": "06/24/2026 05:45:34 PM ET",
+      "group": "2021"
+    },
+    {
+      "path": "2022/FARS2022 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/FARS2022%20Release%20Notes.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "04/01/2026 03:46:52 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/National/FARS2022NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalAuxiliaryCSV.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "04/01/2026 03:46:52 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/National/FARS2022NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "04/01/2026 03:46:52 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/National/FARS2022NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip",
+      "listed_size": "33 MB",
+      "listed_updated": "04/01/2026 03:46:52 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/National/FARS2022NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalSAS.zip",
+      "listed_size": "43 MB",
+      "listed_updated": "04/01/2026 03:46:53 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/Puerto Rico/FARS2022PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/Puerto%20Rico/FARS2022PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "9 KB",
+      "listed_updated": "02/03/2026 08:51:14 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/Puerto Rico/FARS2022PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/Puerto%20Rico/FARS2022PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "22 KB",
+      "listed_updated": "02/03/2026 08:51:14 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/Puerto Rico/FARS2022PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/Puerto%20Rico/FARS2022PuertoRicoCSV.zip",
+      "listed_size": "190 KB",
+      "listed_updated": "02/03/2026 08:51:14 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2022/Puerto Rico/FARS2022PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/Puerto%20Rico/FARS2022PuertoRicoSAS.zip",
+      "listed_size": "848 KB",
+      "listed_updated": "02/03/2026 08:51:15 PM ET",
+      "group": "2022"
+    },
+    {
+      "path": "2023/FARS2023 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/FARS2023%20Release%20Notes.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "04/01/2026 03:46:54 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/National/FARS2023NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "04/01/2026 03:46:54 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/National/FARS2023NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "04/01/2026 03:46:54 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/National/FARS2023NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip",
+      "listed_size": "33 MB",
+      "listed_updated": "04/01/2026 03:46:54 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/National/FARS2023NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalSAS.zip",
+      "listed_size": "42 MB",
+      "listed_updated": "04/01/2026 03:46:54 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/Puerto Rico/FARS2023PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/Puerto%20Rico/FARS2023PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "10 KB",
+      "listed_updated": "04/01/2026 03:46:55 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/Puerto Rico/FARS2023PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/Puerto%20Rico/FARS2023PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "27 KB",
+      "listed_updated": "04/01/2026 03:46:55 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/Puerto Rico/FARS2023PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/Puerto%20Rico/FARS2023PuertoRicoCSV.zip",
+      "listed_size": "219 KB",
+      "listed_updated": "04/01/2026 03:46:55 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2023/Puerto Rico/FARS2023PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/Puerto%20Rico/FARS2023PuertoRicoSAS.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "04/01/2026 03:46:55 PM ET",
+      "group": "2023"
+    },
+    {
+      "path": "2024/FARS2024 Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/FARS2024%20Release%20Notes.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "04/01/2026 03:46:55 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/National/FARS2024NationalAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalAuxiliaryCSV.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "04/01/2026 03:46:56 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/National/FARS2024NationalAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalAuxiliarySAS.zip",
+      "listed_size": "2 MB",
+      "listed_updated": "04/01/2026 03:46:56 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/National/FARS2024NationalCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip",
+      "listed_size": "31 MB",
+      "listed_updated": "04/01/2026 03:46:56 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/National/FARS2024NationalSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalSAS.zip",
+      "listed_size": "40 MB",
+      "listed_updated": "04/01/2026 03:46:56 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/Puerto Rico/FARS2024PuertoRicoAuxiliaryCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/Puerto%20Rico/FARS2024PuertoRicoAuxiliaryCSV.zip",
+      "listed_size": "9 KB",
+      "listed_updated": "04/01/2026 03:46:57 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/Puerto Rico/FARS2024PuertoRicoAuxiliarySAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/Puerto%20Rico/FARS2024PuertoRicoAuxiliarySAS.zip",
+      "listed_size": "27 KB",
+      "listed_updated": "04/01/2026 03:46:57 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/Puerto Rico/FARS2024PuertoRicoCSV.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/Puerto%20Rico/FARS2024PuertoRicoCSV.zip",
+      "listed_size": "200 KB",
+      "listed_updated": "04/01/2026 03:46:57 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "2024/Puerto Rico/FARS2024PuertoRicoSAS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/Puerto%20Rico/FARS2024PuertoRicoSAS.zip",
+      "listed_size": "1 MB",
+      "listed_updated": "04/01/2026 03:46:57 PM ET",
+      "group": "2024"
+    },
+    {
+      "path": "Auxiliary_FARS_Files_Formats/Auxiliary Format File Release Notes.txt",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/Auxiliary_FARS_Files_Formats/Auxiliary%20Format%20File%20Release%20Notes.txt",
+      "listed_size": "1 KB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "auxiliary-fars-files-formats"
+    },
+    {
+      "path": "Auxiliary_FARS_Files_Formats/Auxiliary_Formats.sas",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/Auxiliary_FARS_Files_Formats/Auxiliary_Formats.sas",
+      "listed_size": "9 KB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "auxiliary-fars-files-formats"
+    },
+    {
+      "path": "Auxiliary_FARS_Files_Formats/formats.sas7bcat",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/Auxiliary_FARS_Files_Formats/formats.sas7bcat",
+      "listed_size": "108 KB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "auxiliary-fars-files-formats"
+    },
+    {
+      "path": "FARS-GES Standardization/2009 FARS-GES Standardization.pdf",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/FARS-GES%20Standardization/2009%20FARS-GES%20Standardization.pdf",
+      "listed_size": "474 KB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "fars-ges-standardization"
+    },
+    {
+      "path": "FileList.pdf",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/FileList.pdf",
+      "listed_size": "94 KB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "documentacion"
+    },
+    {
+      "path": "Links for FARS Manuals.pdf",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/Links%20for%20FARS%20Manuals.pdf",
+      "listed_size": "54 KB",
+      "listed_updated": "04/01/2026 03:46:57 PM ET",
+      "group": "documentacion"
+    },
+    {
+      "path": "NLETS/2006-7FARS.zip",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/NLETS/2006-7FARS.zip",
+      "listed_size": "20 MB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "nlets"
+    },
+    {
+      "path": "README-BAC.pdf",
+      "url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/README-BAC.pdf",
+      "listed_size": "54 KB",
+      "listed_updated": "02/03/2026 08:51:16 PM ET",
+      "group": "documentacion"
+    }
+  ],
+  "catalog_snapshot_date": "2026-10-16",
+  "scope": "Complete recursive listing under nhtsa/downloads/FARS/; original bytes only"
+}
