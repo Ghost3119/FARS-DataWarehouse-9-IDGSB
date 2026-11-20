@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2020,
+    "path": "2020/National/FARS2020NationalCSV.zip",
+    "asset": "2020__National__FARS2020NationalCSV.zip",
+    "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2020/2020__National__FARS2020NationalCSV.zip",
+    "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2020",
+    "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip",
+    "sha256": "b2806902b3da9b45c632499f82e1c74fd108238ae7f67e108ebf40360ee4c9c3",
+    "size_bytes": 31016385,
+    "member": "FARS2020NationalCSV/accident.csv",
+    "crashes": 35935
+  },
+  {
+    "year": 2021,
+    "path": "2021/National/FARS2021NationalCSV.zip",
+    "asset": "2021__National__FARS2021NationalCSV.zip",
+    "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2021/2021__National__FARS2021NationalCSV.zip",
+    "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2021",
+    "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip",
+    "sha256": "743c19a13884614430d295289e655c5ad32b0a025a11e5b2149dfb57acae389b",
+    "size_bytes": 35190858,
+    "member": "FARS2021NationalCSV/accident.csv",
+    "crashes": 39785
+  },
+  {
+    "year": 2022,
+    "path": "2022/National/FARS2022NationalCSV.zip",
+    "asset": "2022__National__FARS2022NationalCSV.zip",
+    "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2022/2022__National__FARS2022NationalCSV.zip",
+    "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2022",
+    "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip",
+    "sha256": "989448d7a2f3964264c96a3cdb220f6c413c782a33eb759781f520c5acb5f744",
+    "size_bytes": 34689724,
+    "member": "FARS2022NationalCSV/accident.csv",
+    "crashes": 39422
+  },
+  {
+    "year": 2023,
+    "path": "2023/National/FARS2023NationalCSV.zip",
+    "asset": "2023__National__FARS2023NationalCSV.zip",
+    "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2023/2023__National__FARS2023NationalCSV.zip",
+    "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2023",
+    "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip",
+    "sha256": "edde841eb493e55751961b36bac2d1ce8750f601cb8e6e183a525723bb62bab0",
+    "size_bytes": 34174899,
+    "member": "FARS2023NationalCSV/accident.csv",
+    "crashes": 37769
+  },
+  {
+    "year": 2024,
+    "path": "2024/National/FARS2024NationalCSV.zip",
+    "asset": "2024__National__FARS2024NationalCSV.zip",
+    "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2024/2024__National__FARS2024NationalCSV.zip",
+    "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2024",
+    "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip",
+    "sha256": "5112727a8c0dc91ffee27ca05bddb073934f2d192ce4fae997da767dccdbe04f",
+    "size_bytes": 32672161,
+    "member": "FARS2024NationalCSV/accident.csv",
+    "crashes": 36297
+  }
+]

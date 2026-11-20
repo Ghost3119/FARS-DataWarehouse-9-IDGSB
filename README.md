@@ -2,6 +2,8 @@
 
 Repositorio académico para el análisis de siniestros viales mortales.
 
+La [práctica de análisis supervisado de la Unidad 3](supervisado/README.md) incluye el código, los conjuntos limpios y los resultados de clasificación y regresión con las ediciones nacionales FARS 2020–2024.
+
 ## Integrantes
 
 - Camacho Ibarra Jorge Jair
@@ -16,7 +18,7 @@ Una dirección de seguridad vial quiere identificar combinaciones de horario, ub
 
 **Importación completada el 16 de octubre de 2026:** 433 archivos originales, 54 grupos publicados y 1,734,358,438 bytes. Se comprobó que no falta ningún archivo del manifiesto. [Ejecución completada correctamente](https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/actions/runs/38983581754). Cada grupo incluye su archivo de sumas SHA-256.
 
-Esta entrega conserva las **fuentes crudas**, sin limpiar, convertir, combinar ni modificar registros. La limpieza es una actividad pendiente del equipo. No hay SQLite, ETL de limpieza ni un motor de data warehouse elegido.
+Esta colección conserva las **fuentes crudas** tal como las publica NHTSA. La Unidad 3 prepara por separado un recorte analítico de las ediciones nacionales 2020–2024.
 
 El inventario contiene **433 archivos**, aproximadamente **1.62 GiB según los tamaños redondeados del catálogo**, correspondientes a **1975–2024**, archivos nacionales, Puerto Rico cuando aparece, auxiliares, notas y documentos publicados dentro del directorio FARS. Incluye todos los formatos listados, no solamente CSV. El alcance es el contenido enlazado recursivamente desde ese directorio a la fecha del inventario; no incluye documentos externos enlazados dentro de los PDF.
 
@@ -57,11 +59,9 @@ El script restaura las rutas originales en `data/raw/`, verifica cada SHA-256 y 
 
 Los nombres de assets reemplazan `/` por `__` y espacios por `_` porque Releases no admite carpetas. Esto no modifica los bytes; el manifiesto conserva el nombre y ruta originales. El descargador restaura esa estructura. Las ediciones publicadas no se sobrescriben automáticamente al repetir el workflow.
 
-## Trabajo que corresponde al equipo
+## Alcance de los datos
 
-Después de conservar las fuentes, el equipo podrá elegir años y variables, estudiar los manuales, documentar reglas de limpieza y decidir el diseño y motor del almacén. **Estos pasos no se han ejecutado en esta entrega.** No debe presentarse el repositorio de fuentes como un data warehouse ya implementado.
-
-FARS corresponde a Estados Unidos; los archivos de Puerto Rico están diferenciados en las rutas de la fuente. El número de siniestros mortales no equivale a la probabilidad de siniestro ni demuestra causalidad. La etiqueta “Please fix me” del catálogo de datasets no sustituye una evaluación de calidad de los archivos.
+La colección de Releases sirve como fuente del diseño dimensional y de la práctica de la Unidad 3. FARS cubre los siniestros mortales de Estados Unidos, con archivos de Puerto Rico diferenciados en la fuente. Para estimar el riesgo por viaje se necesitarían datos de exposición y de siniestros sin muertes.
 
 ## Referencias
 

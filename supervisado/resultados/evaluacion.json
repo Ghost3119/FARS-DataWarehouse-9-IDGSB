@@ -1,0 +1,417 @@
+{
+  "entorno": {
+    "python": "3.14.3",
+    "numpy": "2.4.4",
+    "pandas": "3.0.3",
+    "scipy": "1.18.1",
+    "scikit_learn": "1.9.1",
+    "matplotlib": "3.10.9",
+    "hilos_bosques": 4,
+    "semilla": 42,
+    "computo": "CPU"
+  },
+  "segundos": 11.74,
+  "recall_minimo_validacion": 0.5,
+  "originales": [
+    {
+      "year": 2020,
+      "path": "2020/National/FARS2020NationalCSV.zip",
+      "asset": "2020__National__FARS2020NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2020/2020__National__FARS2020NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2020",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2020/National/FARS2020NationalCSV.zip",
+      "sha256": "b2806902b3da9b45c632499f82e1c74fd108238ae7f67e108ebf40360ee4c9c3",
+      "size_bytes": 31016385,
+      "member": "FARS2020NationalCSV/accident.csv",
+      "crashes": 35935
+    },
+    {
+      "year": 2021,
+      "path": "2021/National/FARS2021NationalCSV.zip",
+      "asset": "2021__National__FARS2021NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2021/2021__National__FARS2021NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2021",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2021/National/FARS2021NationalCSV.zip",
+      "sha256": "743c19a13884614430d295289e655c5ad32b0a025a11e5b2149dfb57acae389b",
+      "size_bytes": 35190858,
+      "member": "FARS2021NationalCSV/accident.csv",
+      "crashes": 39785
+    },
+    {
+      "year": 2022,
+      "path": "2022/National/FARS2022NationalCSV.zip",
+      "asset": "2022__National__FARS2022NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2022/2022__National__FARS2022NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2022",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2022/National/FARS2022NationalCSV.zip",
+      "sha256": "989448d7a2f3964264c96a3cdb220f6c413c782a33eb759781f520c5acb5f744",
+      "size_bytes": 34689724,
+      "member": "FARS2022NationalCSV/accident.csv",
+      "crashes": 39422
+    },
+    {
+      "year": 2023,
+      "path": "2023/National/FARS2023NationalCSV.zip",
+      "asset": "2023__National__FARS2023NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2023/2023__National__FARS2023NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2023",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2023/National/FARS2023NationalCSV.zip",
+      "sha256": "edde841eb493e55751961b36bac2d1ce8750f601cb8e6e183a525723bb62bab0",
+      "size_bytes": 34174899,
+      "member": "FARS2023NationalCSV/accident.csv",
+      "crashes": 37769
+    },
+    {
+      "year": 2024,
+      "path": "2024/National/FARS2024NationalCSV.zip",
+      "asset": "2024__National__FARS2024NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2024/2024__National__FARS2024NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2024",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2024/National/FARS2024NationalCSV.zip",
+      "sha256": "5112727a8c0dc91ffee27ca05bddb073934f2d192ce4fae997da767dccdbe04f",
+      "size_bytes": 32672161,
+      "member": "FARS2024NationalCSV/accident.csv",
+      "crashes": 36297
+    }
+  ],
+  "muestras": {
+    "2021": {
+      "siniestros": 39785,
+      "multiples_muertes": 2839,
+      "muertes": 43230,
+      "particion": "entrenamiento",
+      "estado_mes": 612
+    },
+    "2022": {
+      "siniestros": 39422,
+      "multiples_muertes": 2686,
+      "muertes": 42721,
+      "particion": "entrenamiento",
+      "estado_mes": 612
+    },
+    "2023": {
+      "siniestros": 37769,
+      "multiples_muertes": 2641,
+      "muertes": 41025,
+      "particion": "validacion",
+      "estado_mes": 612
+    },
+    "2024": {
+      "siniestros": 36297,
+      "multiples_muertes": 2343,
+      "muertes": 39254,
+      "particion": "prueba",
+      "estado_mes": 612
+    }
+  },
+  "clasificacion": {
+    "elegido_en_2023": "Bosque aleatorio",
+    "modelos": {
+      "Clase mayoritaria": {
+        "test": {
+          "accuracy": 0.9354492106785685,
+          "precision": null,
+          "recall": 0.0,
+          "f1": 0.0,
+          "ap": 0.06455078932143152,
+          "matriz": [
+            [
+              33954,
+              0
+            ],
+            [
+              2343,
+              0
+            ]
+          ]
+        },
+        "ap_referencia_validacion": 0.06992507082527999
+      },
+      "Regresión logística": {
+        "candidatos": [
+          {
+            "parametros": {
+              "C": 1
+            },
+            "validacion": 0.1518386458046208,
+            "segundos_ajuste": 0.5
+          },
+          {
+            "parametros": {
+              "C": 0.1
+            },
+            "validacion": 0.1522013787108062,
+            "segundos_ajuste": 0.291
+          },
+          {
+            "parametros": {
+              "C": 10
+            },
+            "validacion": 0.15175435815970315,
+            "segundos_ajuste": 0.243
+          }
+        ],
+        "seleccion": {
+          "parametros": {
+            "C": 0.1
+          },
+          "validacion": 0.1522013787108062,
+          "segundos_ajuste": 0.291
+        },
+        "corte_validacion": {
+          "umbral": 0.08815434097040074,
+          "precision": 0.14050202084662838,
+          "recall": 0.5001893222264294
+        },
+        "test": {
+          "accuracy": 0.7592087500344381,
+          "precision": 0.13641013982039332,
+          "recall": 0.5121638924455826,
+          "f1": 0.21543985637342908,
+          "ap": 0.15413959525401083,
+          "matriz": [
+            [
+              26357,
+              7597
+            ],
+            [
+              1143,
+              1200
+            ]
+          ]
+        },
+        "test_umbral_0_5": {
+          "accuracy": 0.9354767611648346,
+          "precision": 0.6666666666666666,
+          "recall": 0.0008536064874093043,
+          "f1": 0.0017050298380221654,
+          "ap": 0.15413959525401083,
+          "matriz": [
+            [
+              33953,
+              1
+            ],
+            [
+              2341,
+              2
+            ]
+          ]
+        }
+      },
+      "Bosque aleatorio": {
+        "candidatos": [
+          {
+            "parametros": {
+              "max_depth": 8,
+              "min_samples_leaf": 40
+            },
+            "validacion": 0.15137668840300889,
+            "segundos_ajuste": 0.889
+          },
+          {
+            "parametros": {
+              "max_depth": 8,
+              "min_samples_leaf": 10
+            },
+            "validacion": 0.1514955467578649,
+            "segundos_ajuste": 0.906
+          },
+          {
+            "parametros": {
+              "max_depth": 14,
+              "min_samples_leaf": 40
+            },
+            "validacion": 0.15197493475863835,
+            "segundos_ajuste": 1.378
+          },
+          {
+            "parametros": {
+              "max_depth": 14,
+              "min_samples_leaf": 10
+            },
+            "validacion": 0.15234719244742545,
+            "segundos_ajuste": 1.736
+          }
+        ],
+        "seleccion": {
+          "parametros": {
+            "max_depth": 14,
+            "min_samples_leaf": 10
+          },
+          "validacion": 0.15234719244742545,
+          "segundos_ajuste": 1.736
+        },
+        "corte_validacion": {
+          "umbral": 0.088397076366617,
+          "precision": 0.13575819672131148,
+          "recall": 0.5017039000378645
+        },
+        "test": {
+          "accuracy": 0.7486844642807946,
+          "precision": 0.1299268479091604,
+          "recall": 0.507895860008536,
+          "f1": 0.20692053555903323,
+          "ap": 0.1498713881486337,
+          "matriz": [
+            [
+              25985,
+              7969
+            ],
+            [
+              1153,
+              1190
+            ]
+          ]
+        },
+        "test_umbral_0_5": {
+          "accuracy": 0.9354492106785685,
+          "precision": null,
+          "recall": 0.0,
+          "f1": 0.0,
+          "ap": 0.1498713881486337,
+          "matriz": [
+            [
+              33954,
+              0
+            ],
+            [
+              2343,
+              0
+            ]
+          ]
+        }
+      }
+    }
+  },
+  "regresion": {
+    "elegido_en_2023": "Ridge",
+    "modelos": {
+      "Mismo mes del año previo": {
+        "seleccion": {
+          "validacion": 9.839869281045752
+        },
+        "test": {
+          "mae": 9.459150326797385,
+          "rmse": 13.960670714452998,
+          "r2": 0.9620605169000002
+        }
+      },
+      "Ridge": {
+        "candidatos": [
+          {
+            "parametros": {
+              "alpha": 1
+            },
+            "validacion": 9.556559351912435,
+            "segundos_ajuste": 0.013
+          },
+          {
+            "parametros": {
+              "alpha": 0.01
+            },
+            "validacion": 8.391808164363292,
+            "segundos_ajuste": 0.011
+          },
+          {
+            "parametros": {
+              "alpha": 0.1
+            },
+            "validacion": 8.739845516941408,
+            "segundos_ajuste": 0.009
+          },
+          {
+            "parametros": {
+              "alpha": 10
+            },
+            "validacion": 9.613892299071571,
+            "segundos_ajuste": 0.009
+          },
+          {
+            "parametros": {
+              "alpha": 100
+            },
+            "validacion": 9.331450039214765,
+            "segundos_ajuste": 0.009
+          }
+        ],
+        "seleccion": {
+          "parametros": {
+            "alpha": 0.01
+          },
+          "validacion": 8.391808164363292,
+          "segundos_ajuste": 0.011
+        },
+        "test": {
+          "mae": 10.074959068314724,
+          "rmse": 15.963539941108426,
+          "r2": 0.9503936527887556
+        }
+      },
+      "Bosque aleatorio": {
+        "candidatos": [
+          {
+            "parametros": {
+              "max_depth": 12,
+              "min_samples_leaf": 2
+            },
+            "validacion": 9.024605132337914,
+            "segundos_ajuste": 0.334
+          },
+          {
+            "parametros": {
+              "max_depth": 12,
+              "min_samples_leaf": 6
+            },
+            "validacion": 9.230139221708955,
+            "segundos_ajuste": 0.309
+          },
+          {
+            "parametros": {
+              "max_depth": 6,
+              "min_samples_leaf": 2
+            },
+            "validacion": 8.996276064749788,
+            "segundos_ajuste": 0.343
+          },
+          {
+            "parametros": {
+              "max_depth": 6,
+              "min_samples_leaf": 6
+            },
+            "validacion": 9.155293553343595,
+            "segundos_ajuste": 0.337
+          },
+          {
+            "parametros": {
+              "max_depth": null,
+              "min_samples_leaf": 2
+            },
+            "validacion": 9.026321970482918,
+            "segundos_ajuste": 0.483
+          },
+          {
+            "parametros": {
+              "max_depth": null,
+              "min_samples_leaf": 6
+            },
+            "validacion": 9.234593669331593,
+            "segundos_ajuste": 0.336
+          }
+        ],
+        "seleccion": {
+          "parametros": {
+            "max_depth": 6,
+            "min_samples_leaf": 2
+          },
+          "validacion": 8.996276064749788,
+          "segundos_ajuste": 0.343
+        },
+        "test": {
+          "mae": 9.911095081880049,
+          "rmse": 15.978308500648522,
+          "r2": 0.9503018243870847
+        }
+      }
+    }
+  }
+}
