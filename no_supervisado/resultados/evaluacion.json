@@ -1,0 +1,280 @@
+{
+  "fuente": {
+    "archivo": "clasificacion.csv.gz",
+    "sha256": "4c5ca133769ceac27c928db65e412e7ad2ad49ba988812e65e9e15a1c23feb23"
+  },
+  "entorno": {
+    "python": "3.14.3",
+    "scikit_learn": "1.9.1",
+    "semilla": 42,
+    "reinicios_kmeans": 20
+  },
+  "siniestros": 1872452,
+  "variables": {
+    "oscuridad": "Oscuridad",
+    "fin_semana": "Fin de semana",
+    "madrugada": "Madrugada",
+    "frontal": "Choque frontal",
+    "angular": "Choque angular",
+    "roce_lateral": "Roce lateral"
+  },
+  "muestras": {
+    "ajuste": 2040,
+    "validacion": 255,
+    "prueba": 255
+  },
+  "kmeans": {
+    "candidatos": [
+      {
+        "k": 2,
+        "inercia_ajuste": 9513.19993271161,
+        "validacion": {
+          "silueta": 0.26690526606130927,
+          "davies_bouldin": 1.4237528934053691,
+          "calinski_harabasz": 54.51345685122546
+        }
+      },
+      {
+        "k": 3,
+        "inercia_ajuste": 8319.585317393647,
+        "validacion": {
+          "silueta": 0.14930178695782764,
+          "davies_bouldin": 1.7300514140235859,
+          "calinski_harabasz": 36.89606867304637
+        }
+      },
+      {
+        "k": 4,
+        "inercia_ajuste": 7422.38462623697,
+        "validacion": {
+          "silueta": 0.12936623482887866,
+          "davies_bouldin": 1.7268126584975612,
+          "calinski_harabasz": 34.3127707129435
+        }
+      },
+      {
+        "k": 5,
+        "inercia_ajuste": 6890.368726631216,
+        "validacion": {
+          "silueta": 0.13202420817202806,
+          "davies_bouldin": 1.6120277345505438,
+          "calinski_harabasz": 32.18306859863336
+        }
+      },
+      {
+        "k": 6,
+        "inercia_ajuste": 6459.376982864804,
+        "validacion": {
+          "silueta": 0.13718356587341676,
+          "davies_bouldin": 1.489656539339468,
+          "calinski_harabasz": 35.548053804330834
+        }
+      }
+    ],
+    "inicial": {
+      "k": 3,
+      "inercia_ajuste": 8319.585317393647,
+      "validacion": {
+        "silueta": 0.14930178695782764,
+        "davies_bouldin": 1.7300514140235859,
+        "calinski_harabasz": 36.89606867304637
+      },
+      "prueba": {
+        "silueta": 0.15698747284293516,
+        "davies_bouldin": 1.7100757815548724,
+        "calinski_harabasz": 46.25320852893638
+      },
+      "grupos": [
+        {
+          "grupo": 1,
+          "centroide": {
+            "oscuridad": 0.4410734205210189,
+            "fin_semana": 0.33493437460749026,
+            "madrugada": 0.19458400612254478,
+            "frontal": 0.10345908404812029,
+            "angular": 0.20821175422408617,
+            "roce_lateral": 0.023787329941688248
+          },
+          "perfiles_ajuste": 706,
+          "perfiles_prueba": 176,
+          "centroide_pca": [
+            -1.0339477347375696,
+            -0.7612715170907012
+          ]
+        },
+        {
+          "grupo": 2,
+          "centroide": {
+            "oscuridad": 0.4434093461969582,
+            "fin_semana": 0.3473375209079677,
+            "madrugada": 0.19516091307318031,
+            "frontal": 0.1774249680970789,
+            "angular": 0.15596861405968102,
+            "roce_lateral": 0.012879417117305642
+          },
+          "perfiles_ajuste": 577,
+          "perfiles_prueba": 41,
+          "centroide_pca": [
+            -0.6341357591116296,
+            1.1118116355399599
+          ]
+        },
+        {
+          "grupo": 3,
+          "centroide": {
+            "oscuridad": 0.5437257782172783,
+            "fin_semana": 0.37321866349698307,
+            "madrugada": 0.26269245138405245,
+            "frontal": 0.12743008708203138,
+            "angular": 0.16295730590537671,
+            "roce_lateral": 0.018905566433350972
+          },
+          "perfiles_ajuste": 757,
+          "perfiles_prueba": 38,
+          "centroide_pca": [
+            1.4476399388799657,
+            -0.13746053188972457
+          ]
+        }
+      ]
+    },
+    "optimizado": {
+      "k": 2,
+      "inercia_ajuste": 9513.19993271161,
+      "validacion": {
+        "silueta": 0.26690526606130927,
+        "davies_bouldin": 1.4237528934053691,
+        "calinski_harabasz": 54.51345685122546
+      },
+      "prueba": {
+        "silueta": 0.23795319479598384,
+        "davies_bouldin": 1.4079613772437172,
+        "calinski_harabasz": 66.66025411535414
+      },
+      "grupos": [
+        {
+          "grupo": 1,
+          "centroide": {
+            "oscuridad": 0.4335884518738888,
+            "fin_semana": 0.3364433767415794,
+            "madrugada": 0.1895939392596681,
+            "frontal": 0.13225357367198315,
+            "angular": 0.1916332135020418,
+            "roce_lateral": 0.01897680395079051
+          },
+          "perfiles_ajuste": 1090,
+          "perfiles_prueba": 201,
+          "centroide_pca": [
+            -1.0773015737440044,
+            -0.052083546286770775
+          ]
+        },
+        {
+          "grupo": 2,
+          "centroide": {
+            "oscuridad": 0.5327735201506825,
+            "fin_semana": 0.3712062134936085,
+            "madrugada": 0.25486281914793985,
+            "frontal": 0.13444453640619933,
+            "angular": 0.15947581478579126,
+            "roce_lateral": 0.01879185373622826
+          },
+          "perfiles_ajuste": 950,
+          "perfiles_prueba": 54,
+          "centroide_pca": [
+            1.2336292469055943,
+            0.05964141104762748
+          ]
+        }
+      ]
+    },
+    "estabilidad": {
+      "repeticiones": 12,
+      "estados": 41,
+      "mediana_ari": 0.9604523414539106,
+      "min_ari": 0.850967919171504,
+      "max_ari": 1.0
+    }
+  },
+  "pca": {
+    "meta_varianza": 0.8,
+    "candidatos": [
+      {
+        "componentes": 1,
+        "varianza_ajuste": 0.35450975093553627,
+        "rmse_validacion": 0.8122495643186991
+      },
+      {
+        "componentes": 2,
+        "varianza_ajuste": 0.5780614733873543,
+        "rmse_validacion": 0.7217825220473062
+      },
+      {
+        "componentes": 3,
+        "varianza_ajuste": 0.7684171030229505,
+        "rmse_validacion": 0.5422627614767861
+      },
+      {
+        "componentes": 4,
+        "varianza_ajuste": 0.8823418715649133,
+        "rmse_validacion": 0.33890539165174355
+      },
+      {
+        "componentes": 5,
+        "varianza_ajuste": 0.9649789271816741,
+        "rmse_validacion": 0.20398016118666704
+      },
+      {
+        "componentes": 6,
+        "varianza_ajuste": 0.9999999999999999,
+        "rmse_validacion": 7.861052112931451e-16
+      }
+    ],
+    "varianza_por_componente": [
+      0.35450975093553627,
+      0.223551722451818,
+      0.19035562963559627,
+      0.11392476854196272,
+      0.08263705561676081,
+      0.035021072818325824
+    ],
+    "coeficientes_cp1_cp2": {
+      "oscuridad": [
+        0.6097142143791805,
+        -0.15962045508513842
+      ],
+      "fin_semana": [
+        0.45767701639185154,
+        0.15426305639266896
+      ],
+      "madrugada": [
+        0.6098965977283108,
+        -0.1580235356955084
+      ],
+      "frontal": [
+        -0.015441440403730536,
+        0.7286581632042683
+      ],
+      "angular": [
+        -0.21203502881815572,
+        -0.6275078626826507
+      ],
+      "roce_lateral": [
+        -0.04011451112010808,
+        -0.03231014367547212
+      ]
+    },
+    "inicial": {
+      "componentes": 2,
+      "varianza_ajuste": 0.5780614733873543,
+      "rmse_validacion": 0.7217825220473062,
+      "rmse_prueba": 0.6730942310486417
+    },
+    "optimizado": {
+      "componentes": 4,
+      "varianza_ajuste": 0.8823418715649133,
+      "rmse_validacion": 0.33890539165174355,
+      "rmse_prueba": 0.3494952161737562
+    }
+  }
+}

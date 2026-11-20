@@ -4,6 +4,8 @@ Repositorio académico para el análisis de siniestros viales mortales.
 
 La [práctica de análisis supervisado de la Unidad 3](supervisado/README.md) incluye el código, los conjuntos limpios y los resultados de clasificación y regresión para las **50 ediciones nacionales FARS de 1975 a 2024**. La [cobertura anual](supervisado/resultados/cobertura_anual.csv) muestra los conteos y el uso de cada año.
 
+La [práctica de análisis no supervisado de la Unidad 4](no_supervisado/README.md) aplica K-means y PCA a perfiles estatales anuales, con datos transformados y una comparación reproducible antes y después de la optimización.
+
 ## Integrantes
 
 - Camacho Ibarra Jorge Jair
