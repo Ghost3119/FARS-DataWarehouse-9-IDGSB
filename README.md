@@ -2,7 +2,7 @@
 
 Repositorio académico para el análisis de siniestros viales mortales.
 
-La [práctica de análisis supervisado de la Unidad 3](supervisado/README.md) incluye el código, los conjuntos limpios y los resultados de clasificación y regresión con las ediciones nacionales FARS 2020–2024.
+La [práctica de análisis supervisado de la Unidad 3](supervisado/README.md) incluye el código, los conjuntos limpios y los resultados de clasificación y regresión para las **50 ediciones nacionales FARS de 1975 a 2024**. La [cobertura anual](supervisado/resultados/cobertura_anual.csv) muestra los conteos y el uso de cada año.
 
 ## Integrantes
 
@@ -18,7 +18,7 @@ Una dirección de seguridad vial quiere identificar combinaciones de horario, ub
 
 **Importación completada el 16 de octubre de 2026:** 433 archivos originales, 54 grupos publicados y 1,734,358,438 bytes. Se comprobó que no falta ningún archivo del manifiesto. [Ejecución completada correctamente](https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/actions/runs/38983581754). Cada grupo incluye su archivo de sumas SHA-256.
 
-Esta colección conserva las **fuentes crudas** tal como las publica NHTSA. La Unidad 3 prepara por separado un recorte analítico de las ediciones nacionales 2020–2024.
+Esta colección conserva las **fuentes crudas** tal como las publica NHTSA. La Unidad 3 armoniza por separado la tabla de siniestros de las 50 ediciones nacionales.
 
 El inventario contiene **433 archivos**, aproximadamente **1.62 GiB según los tamaños redondeados del catálogo**, correspondientes a **1975–2024**, archivos nacionales, Puerto Rico cuando aparece, auxiliares, notas y documentos publicados dentro del directorio FARS. Incluye todos los formatos listados, no solamente CSV. El alcance es el contenido enlazado recursivamente desde ese directorio a la fecha del inventario; no incluye documentos externos enlazados dentro de los PDF.
 

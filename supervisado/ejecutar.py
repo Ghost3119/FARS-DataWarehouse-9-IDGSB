@@ -13,14 +13,14 @@ import scipy
 import sklearn
 from threadpoolctl import threadpool_limits
 
-from .datos import DIRECTORIO, PARTICIONES, cargar_limpios, fuentes, reconstruir
+from .datos import DIRECTORIO, PARTICIONES, PARTICIONES_REG, cargar_limpios, fuentes, reconstruir
 from .graficas import grafica_clasificacion, grafica_regresion
 from .modelos import RECALL_MINIMO, SEMILLA, evaluar_clasificacion, evaluar_regresion
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--reconstruir", action="store_true", help="Verificar o descargar los cinco ZIP originales")
+    parser.add_argument("--reconstruir", action="store_true", help="Verificar o descargar los 50 ZIP nacionales")
     parser.add_argument("--originales", type=Path, default=DIRECTORIO.parent / "data" / "raw")
     parser.add_argument("--datos", type=Path, default=DIRECTORIO / "datos")
     parser.add_argument("--salida", type=Path, default=DIRECTORIO / "resultados")
@@ -48,7 +48,13 @@ def main():
         muertes=("FATALS", "sum"),
     )
     resumen["particion"] = resumen.index.map(PARTICIONES)
+    resumen["particion_regresion"] = resumen.index.map(PARTICIONES_REG)
     resumen["estado_mes"] = reg.groupby("YEAR").size()
+    resumen["muertes_sin_mes"] = resumen["muertes"] - reg.groupby("YEAR")["MUERTES"].sum()
+    originales = fuentes()
+    resumen["siniestros_originales"] = resumen.index.map({e["year"]: e["crashes"] for e in originales})
+    resumen["excluidos_fatals_cero"] = resumen["siniestros_originales"] - resumen["siniestros"]
+    resumen.to_csv(args.salida / "cobertura_anual.csv", lineterminator="\n")
     informe = {
         "entorno": {
             "python": python_version(),
@@ -63,7 +69,7 @@ def main():
         },
         "segundos": round(perf_counter() - inicio, 2),
         "recall_minimo_validacion": RECALL_MINIMO,
-        "originales": fuentes(),
+        "originales": originales,
         "muestras": resumen.to_dict(orient="index"),
         "clasificacion": clasificacion,
         "regresion": regresion,

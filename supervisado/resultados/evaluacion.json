@@ -10,9 +10,639 @@
     "semilla": 42,
     "computo": "CPU"
   },
-  "segundos": 11.74,
+  "segundos": 321.73,
   "recall_minimo_validacion": 0.5,
   "originales": [
+    {
+      "year": 1975,
+      "path": "1975/National/FARS1975NationalCSV.zip",
+      "asset": "1975__National__FARS1975NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1975/1975__National__FARS1975NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1975",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1975/National/FARS1975NationalCSV.zip",
+      "sha256": "a3bce899281a87dc628cd7cc8c43477f2d450a1864f1a69145120a609cb67970",
+      "size_bytes": 4684790,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39161,
+      "fatalities": 44525,
+      "fatals_zero": 9
+    },
+    {
+      "year": 1976,
+      "path": "1976/National/FARS1976NationalCSV.zip",
+      "asset": "1976__National__FARS1976NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1976/1976__National__FARS1976NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1976",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1976/National/FARS1976NationalCSV.zip",
+      "sha256": "13ef599abf741f23a2df5568aea0a5643f8af9ed3a9bea37fbf90bb37edf2b68",
+      "size_bytes": 4727505,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39747,
+      "fatalities": 45523,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1977,
+      "path": "1977/National/FARS1977NationalCSV.zip",
+      "asset": "1977__National__FARS1977NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1977/1977__National__FARS1977NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1977",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1977/National/FARS1977NationalCSV.zip",
+      "sha256": "cc8a4b9841a8d082c9fef0b0ae5e8cb08cb583495d600055de5f11c3dc4d85a0",
+      "size_bytes": 5168422,
+      "member": "ACCIDENT.CSV",
+      "crashes": 42211,
+      "fatalities": 47878,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1978,
+      "path": "1978/National/FARS1978NationalCSV.zip",
+      "asset": "1978__National__FARS1978NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1978/1978__National__FARS1978NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1978",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1978/National/FARS1978NationalCSV.zip",
+      "sha256": "00f70b64dfda5b9d7d4c9bb238d9daa1798bdb8fb04c4fa5c9b6f6a8b54e6b89",
+      "size_bytes": 5549118,
+      "member": "ACCIDENT.CSV",
+      "crashes": 44433,
+      "fatalities": 50331,
+      "fatals_zero": 1
+    },
+    {
+      "year": 1979,
+      "path": "1979/National/FARS1979NationalCSV.zip",
+      "asset": "1979__National__FARS1979NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1979/1979__National__FARS1979NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1979",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1979/National/FARS1979NationalCSV.zip",
+      "sha256": "29343ba286e45fad053d78d29449b62a2beb0926d01e676669dfa1a427009842",
+      "size_bytes": 5703843,
+      "member": "ACCIDENT.CSV",
+      "crashes": 45223,
+      "fatalities": 51093,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1980,
+      "path": "1980/National/FARS1980NationalCSV.zip",
+      "asset": "1980__National__FARS1980NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1980/1980__National__FARS1980NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1980",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1980/National/FARS1980NationalCSV.zip",
+      "sha256": "39f9906b4b317e79e17380d1a0ace6f2901e636c3ee7374246c7553304466c59",
+      "size_bytes": 5297928,
+      "member": "ACCIDENT.CSV",
+      "crashes": 45284,
+      "fatalities": 51091,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1981,
+      "path": "1981/National/FARS1981NationalCSV.zip",
+      "asset": "1981__National__FARS1981NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1981/1981__National__FARS1981NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1981",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1981/National/FARS1981NationalCSV.zip",
+      "sha256": "a2067410ef1707226aae4c52c89b194809ff5971b4ca0808f8382405cfa6d3e5",
+      "size_bytes": 5277173,
+      "member": "ACCIDENT.CSV",
+      "crashes": 44000,
+      "fatalities": 49301,
+      "fatals_zero": 1
+    },
+    {
+      "year": 1982,
+      "path": "1982/National/FARS1982NationalCSV.zip",
+      "asset": "1982__National__FARS1982NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1982/1982__National__FARS1982NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1982",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1982/National/FARS1982NationalCSV.zip",
+      "sha256": "4352379bf6af52f710ba53a5af440eff1d09d079e39499da4e6bcec917e103f3",
+      "size_bytes": 6349935,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39092,
+      "fatalities": 43945,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1983,
+      "path": "1983/National/FARS1983NationalCSV.zip",
+      "asset": "1983__National__FARS1983NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1983/1983__National__FARS1983NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1983",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1983/National/FARS1983NationalCSV.zip",
+      "sha256": "c8ad18fe6351aa5f25c25c70964c4aaaea0e3352d0f0e4ef56ed886045f11532",
+      "size_bytes": 6216303,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37976,
+      "fatalities": 42589,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1984,
+      "path": "1984/National/FARS1984NationalCSV.zip",
+      "asset": "1984__National__FARS1984NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1984/1984__National__FARS1984NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1984",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1984/National/FARS1984NationalCSV.zip",
+      "sha256": "b1ac5f6f64e614e231c87f4ceeaaba9c8ac845a8d75dd91a1f29dad31238c149",
+      "size_bytes": 6510887,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39631,
+      "fatalities": 44257,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1985,
+      "path": "1985/National/FARS1985NationalCSV.zip",
+      "asset": "1985__National__FARS1985NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1985/1985__National__FARS1985NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1985",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1985/National/FARS1985NationalCSV.zip",
+      "sha256": "72d369219717b1a784bc2d98f4b1bd6d6d19e33c48342766d99d7ac5c0f0bf33",
+      "size_bytes": 6522889,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39196,
+      "fatalities": 43825,
+      "fatals_zero": 1
+    },
+    {
+      "year": 1986,
+      "path": "1986/National/FARS1986NationalCSV.zip",
+      "asset": "1986__National__FARS1986NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1986/1986__National__FARS1986NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1986",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1986/National/FARS1986NationalCSV.zip",
+      "sha256": "d8dfb4f7e13d4f1b2e797914630672d7356a3d995261160b9171f99aafca3355",
+      "size_bytes": 6834316,
+      "member": "ACCIDENT.CSV",
+      "crashes": 41090,
+      "fatalities": 46087,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1987,
+      "path": "1987/National/FARS1987NationalCSV.zip",
+      "asset": "1987__National__FARS1987NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1987/1987__National__FARS1987NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1987",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1987/National/FARS1987NationalCSV.zip",
+      "sha256": "ec0fe50ad613c45a3667ceca907cb62a5abad29de310571c09d0e3598b2aa5f3",
+      "size_bytes": 7240276,
+      "member": "ACCIDENT.CSV",
+      "crashes": 41438,
+      "fatalities": 46390,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1988,
+      "path": "1988/National/FARS1988NationalCSV.zip",
+      "asset": "1988__National__FARS1988NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1988/1988__National__FARS1988NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1988",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1988/National/FARS1988NationalCSV.zip",
+      "sha256": "eba5d32af2e42fc74251900092e65f55b192a6eb115dabd2983630106f23568c",
+      "size_bytes": 7365829,
+      "member": "ACCIDENT.CSV",
+      "crashes": 42130,
+      "fatalities": 47087,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1989,
+      "path": "1989/National/FARS1989NationalCSV.zip",
+      "asset": "1989__National__FARS1989NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1989/1989__National__FARS1989NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1989",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1989/National/FARS1989NationalCSV.zip",
+      "sha256": "1cc82582c6c767d9b629f951432d57d189d60e5ec58852e2d66a446ef2f2093f",
+      "size_bytes": 7128372,
+      "member": "ACCIDENT.CSV",
+      "crashes": 40741,
+      "fatalities": 45582,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1990,
+      "path": "1990/National/FARS1990NationalCSV.zip",
+      "asset": "1990__National__FARS1990NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1990/1990__National__FARS1990NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1990",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1990/National/FARS1990NationalCSV.zip",
+      "sha256": "6de62eeb303f4dca1c2c9f3f7e5132b4bd93df7b7e6678f499c8a32cc15c4d2e",
+      "size_bytes": 7002264,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39836,
+      "fatalities": 44599,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1991,
+      "path": "1991/National/FARS1991NationalCSV.zip",
+      "asset": "1991__National__FARS1991NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1991/1991__National__FARS1991NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1991",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1991/National/FARS1991NationalCSV.zip",
+      "sha256": "6be22cf2b3703c8d6fe50d57a77598173d3ff0fff1038ada9d56e6dc227c37f2",
+      "size_bytes": 6746530,
+      "member": "ACCIDENT.CSV",
+      "crashes": 36937,
+      "fatalities": 41508,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1992,
+      "path": "1992/National/FARS1992NationalCSV.zip",
+      "asset": "1992__National__FARS1992NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1992/1992__National__FARS1992NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1992",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1992/National/FARS1992NationalCSV.zip",
+      "sha256": "4f4c5df90618ead0bbb8cc3810d008de2f9db50e481d421d285426bdee8bb13c",
+      "size_bytes": 6437032,
+      "member": "ACCIDENT.CSV",
+      "crashes": 34942,
+      "fatalities": 39250,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1993,
+      "path": "1993/National/FARS1993NationalCSV.zip",
+      "asset": "1993__National__FARS1993NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1993/1993__National__FARS1993NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1993",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1993/National/FARS1993NationalCSV.zip",
+      "sha256": "eec8a1a3cd57464afd9178df22c3f2d23d89e6bddf06c8c5c61c78f8e435c7b2",
+      "size_bytes": 6634698,
+      "member": "ACCIDENT.CSV",
+      "crashes": 35780,
+      "fatalities": 40150,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1994,
+      "path": "1994/National/FARS1994NationalCSV.zip",
+      "asset": "1994__National__FARS1994NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1994/1994__National__FARS1994NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1994",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1994/National/FARS1994NationalCSV.zip",
+      "sha256": "5838143735aeee3bf621c80ce74d4bf892259a9cb9678b40f91711af885f1b1b",
+      "size_bytes": 7051439,
+      "member": "ACCIDENT.CSV",
+      "crashes": 36254,
+      "fatalities": 40716,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1995,
+      "path": "1995/National/FARS1995NationalCSV.zip",
+      "asset": "1995__National__FARS1995NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1995/1995__National__FARS1995NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1995",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1995/National/FARS1995NationalCSV.zip",
+      "sha256": "1cc4559cfef24bbb97eecaeb5efa5bc6e500c158888482fc9da2cef106556f41",
+      "size_bytes": 7227146,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37241,
+      "fatalities": 41817,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1996,
+      "path": "1996/National/FARS1996NationalCSV.zip",
+      "asset": "1996__National__FARS1996NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1996/1996__National__FARS1996NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1996",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1996/National/FARS1996NationalCSV.zip",
+      "sha256": "9a89ff803f8d0f38427e8621db507f8e455e98dc6b3472fd3fbbb1307ae3843e",
+      "size_bytes": 7326516,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37494,
+      "fatalities": 42065,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1997,
+      "path": "1997/National/FARS1997NationalCSV.zip",
+      "asset": "1997__National__FARS1997NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1997/1997__National__FARS1997NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1997",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1997/National/FARS1997NationalCSV.zip",
+      "sha256": "7d68eb7effe7f63155db1554aa52f1610f29278d64ef235b25f680054c03b452",
+      "size_bytes": 7316055,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37324,
+      "fatalities": 42013,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1998,
+      "path": "1998/National/FARS1998NationalCSV.zip",
+      "asset": "1998__National__FARS1998NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1998/1998__National__FARS1998NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1998",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1998/National/FARS1998NationalCSV.zip",
+      "sha256": "605c495dc16fe5fbb9d928dcb5b0c02d11d5ef8688d259befc601c73e17a2d82",
+      "size_bytes": 7561402,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37107,
+      "fatalities": 41501,
+      "fatals_zero": 0
+    },
+    {
+      "year": 1999,
+      "path": "1999/National/FARS1999NationalCSV.zip",
+      "asset": "1999__National__FARS1999NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-1999/1999__National__FARS1999NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-1999",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/1999/National/FARS1999NationalCSV.zip",
+      "sha256": "879c5966da662ee99a236d6a00b0b2e6657d52ed09a7f87e75fbc90af4499cf1",
+      "size_bytes": 7360150,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37140,
+      "fatalities": 41717,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2000,
+      "path": "2000/National/FARS2000NationalCSV.zip",
+      "asset": "2000__National__FARS2000NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2000/2000__National__FARS2000NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2000",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2000/National/FARS2000NationalCSV.zip",
+      "sha256": "daf5cd5a883118c44a0b197ea706f8381c67e6286a35d644476fa428346d67f3",
+      "size_bytes": 7543965,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37526,
+      "fatalities": 41945,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2001,
+      "path": "2001/National/FARS2001NationalCSV.zip",
+      "asset": "2001__National__FARS2001NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2001/2001__National__FARS2001NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2001",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2001/National/FARS2001NationalCSV.zip",
+      "sha256": "c9941820b5badf68ef70bc84e33d4ab810ac21f705b34ec599b88286d648dd61",
+      "size_bytes": 7874356,
+      "member": "ACCIDENT.CSV",
+      "crashes": 37862,
+      "fatalities": 42196,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2002,
+      "path": "2002/National/FARS2002NationalCSV.zip",
+      "asset": "2002__National__FARS2002NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2002/2002__National__FARS2002NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2002",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2002/National/FARS2002NationalCSV.zip",
+      "sha256": "93ff09c7c36d703b39bd76c1cabe4a2b3afaa56e0d964ce4fdbb25362b388b16",
+      "size_bytes": 8000205,
+      "member": "ACCIDENT.CSV",
+      "crashes": 38491,
+      "fatalities": 43005,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2003,
+      "path": "2003/National/FARS2003NationalCSV.zip",
+      "asset": "2003__National__FARS2003NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2003/2003__National__FARS2003NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2003",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2003/National/FARS2003NationalCSV.zip",
+      "sha256": "8938be605548310a0acc6362feb4a1d7f4a00434e2812bdeae788b9b55be8836",
+      "size_bytes": 8021667,
+      "member": "ACCIDENT.CSV",
+      "crashes": 38477,
+      "fatalities": 42884,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2004,
+      "path": "2004/National/FARS2004NationalCSV.zip",
+      "asset": "2004__National__FARS2004NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2004/2004__National__FARS2004NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2004",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2004/National/FARS2004NationalCSV.zip",
+      "sha256": "04ac171a224b246de273f985827342ea4d3f56caffcaf66d3e0dcc0166f33b5b",
+      "size_bytes": 8294672,
+      "member": "ACCIDENT.CSV",
+      "crashes": 38444,
+      "fatalities": 42836,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2005,
+      "path": "2005/National/FARS2005NationalCSV.zip",
+      "asset": "2005__National__FARS2005NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2005/2005__National__FARS2005NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2005",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2005/National/FARS2005NationalCSV.zip",
+      "sha256": "3eba25e830d0a522faf6a334a43e9eb2c4822e8a54670d92e8fa729b5ecdfb71",
+      "size_bytes": 8510520,
+      "member": "ACCIDENT.CSV",
+      "crashes": 39252,
+      "fatalities": 43510,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2006,
+      "path": "2006/National/FARS2006NationalCSV.zip",
+      "asset": "2006__National__FARS2006NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2006/2006__National__FARS2006NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2006",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2006/National/FARS2006NationalCSV.zip",
+      "sha256": "b11b5347c3a19abbc48ae205da252c14b0e56c21360c22fbd8eeb8bc0f670be3",
+      "size_bytes": 14853729,
+      "member": "FARS2006NationalCSV/ACCIDENT.CSV",
+      "crashes": 38648,
+      "fatalities": 42708,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2007,
+      "path": "2007/National/FARS2007NationalCSV.zip",
+      "asset": "2007__National__FARS2007NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2007/2007__National__FARS2007NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2007",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2007/National/FARS2007NationalCSV.zip",
+      "sha256": "22bdfc00dd6720b01aaa976d60ceb2372c4af62b49860bbc6fd95341585dc020",
+      "size_bytes": 14659832,
+      "member": "FARS2007NationalCSV/ACCIDENT.CSV",
+      "crashes": 37435,
+      "fatalities": 41259,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2008,
+      "path": "2008/National/FARS2008NationalCSV.zip",
+      "asset": "2008__National__FARS2008NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2008/2008__National__FARS2008NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2008",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2008/National/FARS2008NationalCSV.zip",
+      "sha256": "4106f0cd8f5fdaf20e8063263e50b7f5f4373ede1ba3962ae22b4f92e7812fcc",
+      "size_bytes": 13306442,
+      "member": "FARS2008NationalCSV/ACCIDENT.CSV",
+      "crashes": 34172,
+      "fatalities": 37423,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2009,
+      "path": "2009/National/FARS2009NationalCSV.zip",
+      "asset": "2009__National__FARS2009NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2009/2009__National__FARS2009NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2009",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2009/National/FARS2009NationalCSV.zip",
+      "sha256": "eaa349e8107f79856340c65036b3ef665f5aa01faa18b6b429a7953a245a58cf",
+      "size_bytes": 12223408,
+      "member": "FARS2009NationalCSV/ACCIDENT.CSV",
+      "crashes": 30862,
+      "fatalities": 33883,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2010,
+      "path": "2010/National/FARS2010NationalCSV.zip",
+      "asset": "2010__National__FARS2010NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2010/2010__National__FARS2010NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2010",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2010/National/FARS2010NationalCSV.zip",
+      "sha256": "4f86c198d48c4cc26e836b63fa9029b74980a5a436d85c5e26474ff51c613312",
+      "size_bytes": 14184978,
+      "member": "FARS2010NationalCSV/ACCIDENT.CSV",
+      "crashes": 30296,
+      "fatalities": 32999,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2011,
+      "path": "2011/National/FARS2011NationalCSV.zip",
+      "asset": "2011__National__FARS2011NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2011/2011__National__FARS2011NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2011",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2011/National/FARS2011NationalCSV.zip",
+      "sha256": "7c73e6e20e1ff3f174362688a7255ead541f315066c85c0bea6d4549d5d0befb",
+      "size_bytes": 14616200,
+      "member": "FARS2011NationalCSV/ACCIDENT.CSV",
+      "crashes": 29867,
+      "fatalities": 32479,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2012,
+      "path": "2012/National/FARS2012NationalCSV.zip",
+      "asset": "2012__National__FARS2012NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2012/2012__National__FARS2012NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2012",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2012/National/FARS2012NationalCSV.zip",
+      "sha256": "ff6f575de1a6157b1911188e1346f899f000860e4449b64fa3e81d44da11a702",
+      "size_bytes": 15674962,
+      "member": "FARS2012NationalCSV/ACCIDENT.csv",
+      "crashes": 31006,
+      "fatalities": 33782,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2013,
+      "path": "2013/National/FARS2013NationalCSV.zip",
+      "asset": "2013__National__FARS2013NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2013/2013__National__FARS2013NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2013",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2013/National/FARS2013NationalCSV.zip",
+      "sha256": "9c34182ff203b2dfc09afd1c8a54133ddac000ec16eee70cd7b810aa5e998b65",
+      "size_bytes": 16563919,
+      "member": "FARS2013NationalCSV/ACCIDENT.csv",
+      "crashes": 30202,
+      "fatalities": 32893,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2014,
+      "path": "2014/National/FARS2014NationalCSV.zip",
+      "asset": "2014__National__FARS2014NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2014/2014__National__FARS2014NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2014",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2014/National/FARS2014NationalCSV.zip",
+      "sha256": "9789f29ee8d23b1d3a1f474d54f76fee51a9238fd90e19c71beb82636b472380",
+      "size_bytes": 16699420,
+      "member": "FARS2014NationalCSV/ACCIDENT.csv",
+      "crashes": 30056,
+      "fatalities": 32744,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2015,
+      "path": "2015/National/FARS2015NationalCSV.zip",
+      "asset": "2015__National__FARS2015NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2015/2015__National__FARS2015NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2015",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2015/National/FARS2015NationalCSV.zip",
+      "sha256": "45f3aa0f03723c4d74c5f4b084530dd458c50354bcc5f9a8d165d36e24b12209",
+      "size_bytes": 29908134,
+      "member": "FARS2015NationalCSV/accident.csv",
+      "crashes": 32538,
+      "fatalities": 35484,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2016,
+      "path": "2016/National/FARS2016NationalCSV.zip",
+      "asset": "2016__National__FARS2016NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2016/2016__National__FARS2016NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2016",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2016/National/FARS2016NationalCSV.zip",
+      "sha256": "44a452a25cb064bf680d4851ff3ad63d7e2d13704a58a1b287b4e02a7cebff0f",
+      "size_bytes": 26804304,
+      "member": "accident.CSV",
+      "crashes": 34748,
+      "fatalities": 37806,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2017,
+      "path": "2017/National/FARS2017NationalCSV.zip",
+      "asset": "2017__National__FARS2017NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2017/2017__National__FARS2017NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2017",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2017/National/FARS2017NationalCSV.zip",
+      "sha256": "1a886757b7bf611c883cc9039e0f3cf1915142dcb0e31fcbaa14c96aab2385c4",
+      "size_bytes": 26826649,
+      "member": "accident.CSV",
+      "crashes": 34560,
+      "fatalities": 37473,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2018,
+      "path": "2018/National/FARS2018NationalCSV.zip",
+      "asset": "2018__National__FARS2018NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2018/2018__National__FARS2018NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2018",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2018/National/FARS2018NationalCSV.zip",
+      "sha256": "bd0c5473e3f0eaf44c3236000225e5ca90070884684d1b69036062b2ddbdaf2e",
+      "size_bytes": 26874597,
+      "member": "accident.csv",
+      "crashes": 33919,
+      "fatalities": 36835,
+      "fatals_zero": 0
+    },
+    {
+      "year": 2019,
+      "path": "2019/National/FARS2019NationalCSV.zip",
+      "asset": "2019__National__FARS2019NationalCSV.zip",
+      "download_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/download/fars-raw-2019/2019__National__FARS2019NationalCSV.zip",
+      "release_url": "https://github.com/Ghost3119/FARS-DataWarehouse-9-IDGSB/releases/tag/fars-raw-2019",
+      "source_url": "https://static.nhtsa.gov/nhtsa/downloads/FARS/2019/National/FARS2019NationalCSV.zip",
+      "sha256": "0974abb92cfb04fa022631a838a3f46555025f2b011ee78ecad15bcf86c60f31",
+      "size_bytes": 26974033,
+      "member": "accident.CSV",
+      "crashes": 33487,
+      "fatalities": 36355,
+      "fatals_zero": 0
+    },
     {
       "year": 2020,
       "path": "2020/National/FARS2020NationalCSV.zip",
@@ -23,7 +653,9 @@
       "sha256": "b2806902b3da9b45c632499f82e1c74fd108238ae7f67e108ebf40360ee4c9c3",
       "size_bytes": 31016385,
       "member": "FARS2020NationalCSV/accident.csv",
-      "crashes": 35935
+      "crashes": 35935,
+      "fatalities": 39007,
+      "fatals_zero": 0
     },
     {
       "year": 2021,
@@ -35,7 +667,9 @@
       "sha256": "743c19a13884614430d295289e655c5ad32b0a025a11e5b2149dfb57acae389b",
       "size_bytes": 35190858,
       "member": "FARS2021NationalCSV/accident.csv",
-      "crashes": 39785
+      "crashes": 39785,
+      "fatalities": 43230,
+      "fatals_zero": 0
     },
     {
       "year": 2022,
@@ -47,7 +681,9 @@
       "sha256": "989448d7a2f3964264c96a3cdb220f6c413c782a33eb759781f520c5acb5f744",
       "size_bytes": 34689724,
       "member": "FARS2022NationalCSV/accident.csv",
-      "crashes": 39422
+      "crashes": 39422,
+      "fatalities": 42721,
+      "fatals_zero": 0
     },
     {
       "year": 2023,
@@ -59,7 +695,9 @@
       "sha256": "edde841eb493e55751961b36bac2d1ce8750f601cb8e6e183a525723bb62bab0",
       "size_bytes": 34174899,
       "member": "FARS2023NationalCSV/accident.csv",
-      "crashes": 37769
+      "crashes": 37769,
+      "fatalities": 41025,
+      "fatals_zero": 0
     },
     {
       "year": 2024,
@@ -71,37 +709,561 @@
       "sha256": "5112727a8c0dc91ffee27ca05bddb073934f2d192ce4fae997da767dccdbe04f",
       "size_bytes": 32672161,
       "member": "FARS2024NationalCSV/accident.csv",
-      "crashes": 36297
+      "crashes": 36297,
+      "fatalities": 39254,
+      "fatals_zero": 0
     }
   ],
   "muestras": {
+    "1975": {
+      "siniestros": 39152,
+      "multiples_muertes": 4133,
+      "muertes": 44525,
+      "particion": "entrenamiento",
+      "particion_regresion": "historia",
+      "estado_mes": 612,
+      "muertes_sin_mes": 3,
+      "siniestros_originales": 39161,
+      "excluidos_fatals_cero": 9
+    },
+    "1976": {
+      "siniestros": 39747,
+      "multiples_muertes": 4296,
+      "muertes": 45523,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39747,
+      "excluidos_fatals_cero": 0
+    },
+    "1977": {
+      "siniestros": 42211,
+      "multiples_muertes": 4392,
+      "muertes": 47878,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 1,
+      "siniestros_originales": 42211,
+      "excluidos_fatals_cero": 0
+    },
+    "1978": {
+      "siniestros": 44432,
+      "multiples_muertes": 4562,
+      "muertes": 50331,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 44433,
+      "excluidos_fatals_cero": 1
+    },
+    "1979": {
+      "siniestros": 45223,
+      "multiples_muertes": 4615,
+      "muertes": 51093,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 45223,
+      "excluidos_fatals_cero": 0
+    },
+    "1980": {
+      "siniestros": 45284,
+      "multiples_muertes": 4537,
+      "muertes": 51091,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 45284,
+      "excluidos_fatals_cero": 0
+    },
+    "1981": {
+      "siniestros": 43999,
+      "multiples_muertes": 4146,
+      "muertes": 49301,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 44000,
+      "excluidos_fatals_cero": 1
+    },
+    "1982": {
+      "siniestros": 39092,
+      "multiples_muertes": 3736,
+      "muertes": 43945,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39092,
+      "excluidos_fatals_cero": 0
+    },
+    "1983": {
+      "siniestros": 37976,
+      "multiples_muertes": 3594,
+      "muertes": 42589,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37976,
+      "excluidos_fatals_cero": 0
+    },
+    "1984": {
+      "siniestros": 39631,
+      "multiples_muertes": 3631,
+      "muertes": 44257,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39631,
+      "excluidos_fatals_cero": 0
+    },
+    "1985": {
+      "siniestros": 39195,
+      "multiples_muertes": 3633,
+      "muertes": 43825,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39196,
+      "excluidos_fatals_cero": 1
+    },
+    "1986": {
+      "siniestros": 41090,
+      "multiples_muertes": 3883,
+      "muertes": 46087,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 41090,
+      "excluidos_fatals_cero": 0
+    },
+    "1987": {
+      "siniestros": 41438,
+      "multiples_muertes": 3911,
+      "muertes": 46390,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 41438,
+      "excluidos_fatals_cero": 0
+    },
+    "1988": {
+      "siniestros": 42130,
+      "multiples_muertes": 3890,
+      "muertes": 47087,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 42130,
+      "excluidos_fatals_cero": 0
+    },
+    "1989": {
+      "siniestros": 40741,
+      "multiples_muertes": 3864,
+      "muertes": 45582,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 40741,
+      "excluidos_fatals_cero": 0
+    },
+    "1990": {
+      "siniestros": 39836,
+      "multiples_muertes": 3762,
+      "muertes": 44599,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39836,
+      "excluidos_fatals_cero": 0
+    },
+    "1991": {
+      "siniestros": 36937,
+      "multiples_muertes": 3560,
+      "muertes": 41508,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 36937,
+      "excluidos_fatals_cero": 0
+    },
+    "1992": {
+      "siniestros": 34942,
+      "multiples_muertes": 3371,
+      "muertes": 39250,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 34942,
+      "excluidos_fatals_cero": 0
+    },
+    "1993": {
+      "siniestros": 35780,
+      "multiples_muertes": 3445,
+      "muertes": 40150,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 35780,
+      "excluidos_fatals_cero": 0
+    },
+    "1994": {
+      "siniestros": 36254,
+      "multiples_muertes": 3472,
+      "muertes": 40716,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 36254,
+      "excluidos_fatals_cero": 0
+    },
+    "1995": {
+      "siniestros": 37241,
+      "multiples_muertes": 3549,
+      "muertes": 41817,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37241,
+      "excluidos_fatals_cero": 0
+    },
+    "1996": {
+      "siniestros": 37494,
+      "multiples_muertes": 3624,
+      "muertes": 42065,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37494,
+      "excluidos_fatals_cero": 0
+    },
+    "1997": {
+      "siniestros": 37324,
+      "multiples_muertes": 3671,
+      "muertes": 42013,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37324,
+      "excluidos_fatals_cero": 0
+    },
+    "1998": {
+      "siniestros": 37107,
+      "multiples_muertes": 3450,
+      "muertes": 41501,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37107,
+      "excluidos_fatals_cero": 0
+    },
+    "1999": {
+      "siniestros": 37140,
+      "multiples_muertes": 3552,
+      "muertes": 41717,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37140,
+      "excluidos_fatals_cero": 0
+    },
+    "2000": {
+      "siniestros": 37526,
+      "multiples_muertes": 3485,
+      "muertes": 41945,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37526,
+      "excluidos_fatals_cero": 0
+    },
+    "2001": {
+      "siniestros": 37862,
+      "multiples_muertes": 3448,
+      "muertes": 42196,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37862,
+      "excluidos_fatals_cero": 0
+    },
+    "2002": {
+      "siniestros": 38491,
+      "multiples_muertes": 3549,
+      "muertes": 43005,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 38491,
+      "excluidos_fatals_cero": 0
+    },
+    "2003": {
+      "siniestros": 38477,
+      "multiples_muertes": 3499,
+      "muertes": 42884,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 38477,
+      "excluidos_fatals_cero": 0
+    },
+    "2004": {
+      "siniestros": 38444,
+      "multiples_muertes": 3478,
+      "muertes": 42836,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 38444,
+      "excluidos_fatals_cero": 0
+    },
+    "2005": {
+      "siniestros": 39252,
+      "multiples_muertes": 3385,
+      "muertes": 43510,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39252,
+      "excluidos_fatals_cero": 0
+    },
+    "2006": {
+      "siniestros": 38648,
+      "multiples_muertes": 3246,
+      "muertes": 42708,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 38648,
+      "excluidos_fatals_cero": 0
+    },
+    "2007": {
+      "siniestros": 37435,
+      "multiples_muertes": 3073,
+      "muertes": 41259,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37435,
+      "excluidos_fatals_cero": 0
+    },
+    "2008": {
+      "siniestros": 34172,
+      "multiples_muertes": 2647,
+      "muertes": 37423,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 34172,
+      "excluidos_fatals_cero": 0
+    },
+    "2009": {
+      "siniestros": 30862,
+      "multiples_muertes": 2404,
+      "muertes": 33883,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 30862,
+      "excluidos_fatals_cero": 0
+    },
+    "2010": {
+      "siniestros": 30296,
+      "multiples_muertes": 2203,
+      "muertes": 32999,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 30296,
+      "excluidos_fatals_cero": 0
+    },
+    "2011": {
+      "siniestros": 29867,
+      "multiples_muertes": 2155,
+      "muertes": 32479,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 29867,
+      "excluidos_fatals_cero": 0
+    },
+    "2012": {
+      "siniestros": 31006,
+      "multiples_muertes": 2240,
+      "muertes": 33782,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 31006,
+      "excluidos_fatals_cero": 0
+    },
+    "2013": {
+      "siniestros": 30202,
+      "multiples_muertes": 2198,
+      "muertes": 32893,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 30202,
+      "excluidos_fatals_cero": 0
+    },
+    "2014": {
+      "siniestros": 30056,
+      "multiples_muertes": 2149,
+      "muertes": 32744,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 30056,
+      "excluidos_fatals_cero": 0
+    },
+    "2015": {
+      "siniestros": 32538,
+      "multiples_muertes": 2368,
+      "muertes": 35484,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 32538,
+      "excluidos_fatals_cero": 0
+    },
+    "2016": {
+      "siniestros": 34748,
+      "multiples_muertes": 2468,
+      "muertes": 37806,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 34748,
+      "excluidos_fatals_cero": 0
+    },
+    "2017": {
+      "siniestros": 34560,
+      "multiples_muertes": 2358,
+      "muertes": 37473,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 34560,
+      "excluidos_fatals_cero": 0
+    },
+    "2018": {
+      "siniestros": 33919,
+      "multiples_muertes": 2394,
+      "muertes": 36835,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 33919,
+      "excluidos_fatals_cero": 0
+    },
+    "2019": {
+      "siniestros": 33487,
+      "multiples_muertes": 2364,
+      "muertes": 36355,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 33487,
+      "excluidos_fatals_cero": 0
+    },
+    "2020": {
+      "siniestros": 35935,
+      "multiples_muertes": 2544,
+      "muertes": 39007,
+      "particion": "entrenamiento",
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 35935,
+      "excluidos_fatals_cero": 0
+    },
     "2021": {
       "siniestros": 39785,
       "multiples_muertes": 2839,
       "muertes": 43230,
       "particion": "entrenamiento",
-      "estado_mes": 612
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39785,
+      "excluidos_fatals_cero": 0
     },
     "2022": {
       "siniestros": 39422,
       "multiples_muertes": 2686,
       "muertes": 42721,
       "particion": "entrenamiento",
-      "estado_mes": 612
+      "particion_regresion": "entrenamiento",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 39422,
+      "excluidos_fatals_cero": 0
     },
     "2023": {
       "siniestros": 37769,
       "multiples_muertes": 2641,
       "muertes": 41025,
       "particion": "validacion",
-      "estado_mes": 612
+      "particion_regresion": "validacion",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 37769,
+      "excluidos_fatals_cero": 0
     },
     "2024": {
       "siniestros": 36297,
       "multiples_muertes": 2343,
       "muertes": 39254,
       "particion": "prueba",
-      "estado_mes": 612
+      "particion_regresion": "prueba",
+      "estado_mes": 612,
+      "muertes_sin_mes": 0,
+      "siniestros_originales": 36297,
+      "excluidos_fatals_cero": 0
     }
   },
   "clasificacion": {
@@ -133,67 +1295,67 @@
             "parametros": {
               "C": 1
             },
-            "validacion": 0.1518386458046208,
-            "segundos_ajuste": 0.5
+            "validacion": 0.1553169359338634,
+            "segundos_ajuste": 2.009
           },
           {
             "parametros": {
               "C": 0.1
             },
-            "validacion": 0.1522013787108062,
-            "segundos_ajuste": 0.291
+            "validacion": 0.15531885891154934,
+            "segundos_ajuste": 1.766
           },
           {
             "parametros": {
               "C": 10
             },
-            "validacion": 0.15175435815970315,
-            "segundos_ajuste": 0.243
+            "validacion": 0.15531380955332288,
+            "segundos_ajuste": 1.817
           }
         ],
         "seleccion": {
           "parametros": {
             "C": 0.1
           },
-          "validacion": 0.1522013787108062,
-          "segundos_ajuste": 0.291
+          "validacion": 0.15531885891154934,
+          "segundos_ajuste": 1.766
         },
         "corte_validacion": {
-          "umbral": 0.08815434097040074,
-          "precision": 0.14050202084662838,
+          "umbral": 0.10712244107061267,
+          "precision": 0.1414801328049695,
           "recall": 0.5001893222264294
         },
         "test": {
-          "accuracy": 0.7592087500344381,
-          "precision": 0.13641013982039332,
-          "recall": 0.5121638924455826,
-          "f1": 0.21543985637342908,
-          "ap": 0.15413959525401083,
+          "accuracy": 0.7642229385348651,
+          "precision": 0.14037727114917256,
+          "recall": 0.5177123346137431,
+          "f1": 0.2208667152221413,
+          "ap": 0.15500603785560707,
           "matriz": [
             [
-              26357,
-              7597
+              26526,
+              7428
             ],
             [
-              1143,
-              1200
+              1130,
+              1213
             ]
           ]
         },
         "test_umbral_0_5": {
           "accuracy": 0.9354767611648346,
-          "precision": 0.6666666666666666,
-          "recall": 0.0008536064874093043,
-          "f1": 0.0017050298380221654,
-          "ap": 0.15413959525401083,
+          "precision": 0.6,
+          "recall": 0.0012804097311139564,
+          "f1": 0.002555366269165247,
+          "ap": 0.15500603785560707,
           "matriz": [
             [
-              33953,
-              1
+              33952,
+              2
             ],
             [
-              2341,
-              2
+              2340,
+              3
             ]
           ]
         }
@@ -205,32 +1367,32 @@
               "max_depth": 8,
               "min_samples_leaf": 40
             },
-            "validacion": 0.15137668840300889,
-            "segundos_ajuste": 0.889
+            "validacion": 0.15280547697527358,
+            "segundos_ajuste": 31.86
           },
           {
             "parametros": {
               "max_depth": 8,
               "min_samples_leaf": 10
             },
-            "validacion": 0.1514955467578649,
-            "segundos_ajuste": 0.906
+            "validacion": 0.15304375095158612,
+            "segundos_ajuste": 34.642
           },
           {
             "parametros": {
               "max_depth": 14,
               "min_samples_leaf": 40
             },
-            "validacion": 0.15197493475863835,
-            "segundos_ajuste": 1.378
+            "validacion": 0.15693309584177054,
+            "segundos_ajuste": 87.225
           },
           {
             "parametros": {
               "max_depth": 14,
               "min_samples_leaf": 10
             },
-            "validacion": 0.15234719244742545,
-            "segundos_ajuste": 1.736
+            "validacion": 0.15795278421461534,
+            "segundos_ajuste": 103.116
           }
         ],
         "seleccion": {
@@ -238,28 +1400,28 @@
             "max_depth": 14,
             "min_samples_leaf": 10
           },
-          "validacion": 0.15234719244742545,
-          "segundos_ajuste": 1.736
+          "validacion": 0.15795278421461534,
+          "segundos_ajuste": 103.116
         },
         "corte_validacion": {
-          "umbral": 0.088397076366617,
-          "precision": 0.13575819672131148,
-          "recall": 0.5017039000378645
+          "umbral": 0.10913121461142965,
+          "precision": 0.14193617707102182,
+          "recall": 0.5001893222264294
         },
         "test": {
-          "accuracy": 0.7486844642807946,
-          "precision": 0.1299268479091604,
-          "recall": 0.507895860008536,
-          "f1": 0.20692053555903323,
-          "ap": 0.1498713881486337,
+          "accuracy": 0.7631209190842219,
+          "precision": 0.13906520484708598,
+          "recall": 0.5142979086641059,
+          "f1": 0.21893168604651161,
+          "ap": 0.15074810617557088,
           "matriz": [
             [
-              25985,
-              7969
+              26494,
+              7460
             ],
             [
-              1153,
-              1190
+              1138,
+              1205
             ]
           ]
         },
@@ -268,7 +1430,7 @@
           "precision": null,
           "recall": 0.0,
           "f1": 0.0,
-          "ap": 0.1498713881486337,
+          "ap": 0.15074810617557088,
           "matriz": [
             [
               33954,
@@ -284,7 +1446,7 @@
     }
   },
   "regresion": {
-    "elegido_en_2023": "Ridge",
+    "elegido_en_2023": "Bosque aleatorio",
     "modelos": {
       "Mismo mes del año previo": {
         "seleccion": {
@@ -302,49 +1464,49 @@
             "parametros": {
               "alpha": 1
             },
-            "validacion": 9.556559351912435,
-            "segundos_ajuste": 0.013
+            "validacion": 8.265305159562836,
+            "segundos_ajuste": 0.007
           },
           {
             "parametros": {
               "alpha": 0.01
             },
-            "validacion": 8.391808164363292,
-            "segundos_ajuste": 0.011
+            "validacion": 8.264162587900916,
+            "segundos_ajuste": 0.004
           },
           {
             "parametros": {
               "alpha": 0.1
             },
-            "validacion": 8.739845516941408,
-            "segundos_ajuste": 0.009
+            "validacion": 8.264279268252347,
+            "segundos_ajuste": 0.005
           },
           {
             "parametros": {
               "alpha": 10
             },
-            "validacion": 9.613892299071571,
-            "segundos_ajuste": 0.009
+            "validacion": 8.27264111573663,
+            "segundos_ajuste": 0.004
           },
           {
             "parametros": {
               "alpha": 100
             },
-            "validacion": 9.331450039214765,
-            "segundos_ajuste": 0.009
+            "validacion": 8.281130353683945,
+            "segundos_ajuste": 0.004
           }
         ],
         "seleccion": {
           "parametros": {
             "alpha": 0.01
           },
-          "validacion": 8.391808164363292,
-          "segundos_ajuste": 0.011
+          "validacion": 8.264162587900916,
+          "segundos_ajuste": 0.004
         },
         "test": {
-          "mae": 10.074959068314724,
-          "rmse": 15.963539941108426,
-          "r2": 0.9503936527887556
+          "mae": 8.354821755632768,
+          "rmse": 11.828411426153226,
+          "r2": 0.972764729905928
         }
       },
       "Bosque aleatorio": {
@@ -354,62 +1516,62 @@
               "max_depth": 12,
               "min_samples_leaf": 2
             },
-            "validacion": 9.024605132337914,
-            "segundos_ajuste": 0.334
+            "validacion": 8.204246906483567,
+            "segundos_ajuste": 6.999
           },
           {
             "parametros": {
               "max_depth": 12,
               "min_samples_leaf": 6
             },
-            "validacion": 9.230139221708955,
-            "segundos_ajuste": 0.309
+            "validacion": 8.24020410824771,
+            "segundos_ajuste": 5.332
           },
           {
             "parametros": {
               "max_depth": 6,
               "min_samples_leaf": 2
             },
-            "validacion": 8.996276064749788,
-            "segundos_ajuste": 0.343
+            "validacion": 8.650034627406944,
+            "segundos_ajuste": 1.015
           },
           {
             "parametros": {
               "max_depth": 6,
               "min_samples_leaf": 6
             },
-            "validacion": 9.155293553343595,
-            "segundos_ajuste": 0.337
+            "validacion": 8.658896302011609,
+            "segundos_ajuste": 1.033
           },
           {
             "parametros": {
               "max_depth": null,
               "min_samples_leaf": 2
             },
-            "validacion": 9.026321970482918,
-            "segundos_ajuste": 0.483
+            "validacion": 8.426208051298739,
+            "segundos_ajuste": 17.431
           },
           {
             "parametros": {
               "max_depth": null,
               "min_samples_leaf": 6
             },
-            "validacion": 9.234593669331593,
-            "segundos_ajuste": 0.336
+            "validacion": 8.348874661577348,
+            "segundos_ajuste": 10.985
           }
         ],
         "seleccion": {
           "parametros": {
-            "max_depth": 6,
+            "max_depth": 12,
             "min_samples_leaf": 2
           },
-          "validacion": 8.996276064749788,
-          "segundos_ajuste": 0.343
+          "validacion": 8.204246906483567,
+          "segundos_ajuste": 6.999
         },
         "test": {
-          "mae": 9.911095081880049,
-          "rmse": 15.978308500648522,
-          "r2": 0.9503018243870847
+          "mae": 8.00194771194706,
+          "rmse": 11.48131193180059,
+          "r2": 0.9743396914084625
         }
       }
     }

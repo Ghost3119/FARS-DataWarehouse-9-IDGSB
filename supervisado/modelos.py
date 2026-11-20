@@ -12,7 +12,6 @@ from sklearn.metrics import (
     recall_score, root_mean_squared_error,
 )
 from sklearn.model_selection import ParameterGrid
-from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 from .datos import CATEGORIAS_CLAS, CATEGORIAS_REG, NUMERICAS_CLAS, NUMERICAS_REG
@@ -27,36 +26,45 @@ ESTACIONAL = "Mismo mes del año previo"
 
 
 def separar(tabla, categoricas, numericas, objetivo):
-    entradas = tabla[categoricas + numericas].astype(
-        {campo: "str" for campo in categoricas}
-    )
+    columnas = categoricas + numericas
     conjuntos = []
     for nombre in ("entrenamiento", "validacion", "prueba"):
         mascara = tabla["particion"].eq(nombre)
-        conjuntos.append((entradas.loc[mascara], tabla.loc[mascara, objetivo]))
-    return conjuntos
+        conjuntos.append((tabla.loc[mascara, columnas], tabla.loc[mascara, objetivo]))
+    (x_train, y_train), (x_val, y_val), (x_test, y_test) = conjuntos
+    preproceso = ColumnTransformer([
+        ("categoricas", OneHotEncoder(handle_unknown="ignore"), categoricas),
+        ("numericas", StandardScaler(), numericas),
+    ])
+    return (
+        (preproceso.fit_transform(x_train), y_train),
+        (preproceso.transform(x_val), y_val),
+        (preproceso.transform(x_test), y_test),
+    )
 
 
-def ajustar(modelo, cuadricula, categoricas, numericas, entrenamiento, puntuar):
-    """El primer candidato da la referencia inicial; puntuar usa solo 2023."""
-    ajustes = []
+def ajustar(modelo, cuadricula, entrenamiento, puntuar, maximizar):
+    """Evalúa en 2023 y conserva el mejor ajuste de cada familia."""
+    candidatos = []
+    elegido = None
+    mejor = -np.inf
     for parametros in ParameterGrid(cuadricula):
-        preproceso = ColumnTransformer([
-            ("categoricas", OneHotEncoder(handle_unknown="ignore"), categoricas),
-            ("numericas", StandardScaler(), numericas),
-        ])
-        estimador = make_pipeline(preproceso, modelo(**parametros))
+        estimador = modelo(**parametros)
         inicio = perf_counter()
         estimador.fit(*entrenamiento)
-        ajustes.append((
-            estimador,
-            {
-                "parametros": parametros,
-                "validacion": float(puntuar(estimador)),
-                "segundos_ajuste": round(perf_counter() - inicio, 3),
-            },
-        ))
-    return ajustes
+        valor = float(puntuar(estimador))
+        candidato = {
+            "parametros": parametros,
+            "validacion": valor,
+            "segundos_ajuste": round(perf_counter() - inicio, 3),
+        }
+        candidatos.append(candidato)
+        prioridad = valor if maximizar else -valor
+        if prioridad > mejor:
+            mejor = prioridad
+            elegido = (estimador, candidato)
+    estimador, candidato = elegido
+    return estimador, candidato, candidatos
 
 
 def umbral_validacion(y, scores):
@@ -97,13 +105,13 @@ def evaluar_clasificacion(tabla, hilos):
     ]
     finalistas = {}
     for nombre, modelo, grid in familias:
-        candidatos = ajustar(
-            modelo, grid, cat, num, entrenamiento,
+        modelo, mejor, candidatos = ajustar(
+            modelo, grid, entrenamiento,
             lambda m: average_precision_score(y_val, m.predict_proba(x_val)[:, 1]),
+            maximizar=True,
         )
-        modelo, mejor = max(candidatos, key=lambda item: item[1]["validacion"])
         corte = umbral_validacion(y_val, modelo.predict_proba(x_val)[:, 1])
-        finalistas[nombre] = (modelo, mejor, corte, [fila for _, fila in candidatos])
+        finalistas[nombre] = (modelo, mejor, corte, candidatos)
 
     elegido = max(finalistas, key=lambda nombre: finalistas[nombre][1]["validacion"])
     informe = {
@@ -145,19 +153,21 @@ def evaluar_regresion(tabla, hilos):
     ]
     finalistas = {}
     for nombre, modelo, grid in familias:
-        candidatos = ajustar(
-            modelo, grid, cat, num, entrenamiento,
+        modelo, mejor, candidatos = ajustar(
+            modelo, grid, entrenamiento,
             lambda m: mean_absolute_error(y_val, np.maximum(m.predict(x_val), 0)),
+            maximizar=False,
         )
-        modelo, mejor = min(candidatos, key=lambda item: item[1]["validacion"])
-        finalistas[nombre] = (modelo, mejor, [fila for _, fila in candidatos])
+        finalistas[nombre] = (modelo, mejor, candidatos)
 
+    previo_val = tabla.loc[tabla["particion"].eq("validacion"), "MUERTES_MISMO_MES_PREV"]
+    previo_test = tabla.loc[tabla["particion"].eq("prueba"), "MUERTES_MISMO_MES_PREV"]
     informe = {
         ESTACIONAL: {
             "seleccion": {
-                "validacion": float(mean_absolute_error(y_val, x_val["MUERTES_MISMO_MES_PREV"])),
+                "validacion": float(mean_absolute_error(y_val, previo_val)),
             },
-            "test": metricas_regresion(y_test, x_test["MUERTES_MISMO_MES_PREV"]),
+            "test": metricas_regresion(y_test, previo_test),
         },
     }
     for nombre, (modelo, mejor, candidatos) in finalistas.items():
