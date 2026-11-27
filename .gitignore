@@ -1,3 +1,9 @@
 data/raw/
 __pycache__/
 *.partial
+*.zip
+.venv/
+venv/
+*.pyc
+.DS_Store
+Thumbs.db
